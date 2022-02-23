@@ -1,0 +1,773 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The life of faith in death, in expectation of the resurrection from the dead opened in a sermon at the funerall of the right worshipfull Mr. Thomas Slany late maior of the famous town and corporation of King-Lynn in the county of Norfolk : who deceased in the year of his maioralty, Jan. 10. 1649 / preached there by John Horn ...</title>
+            <author>Horn, John, 1614-1676.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1649</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 105 KB of XML-encoded text transcribed from 18 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A44499</idno>
+            <idno type="STC">Wing H2804</idno>
+            <idno type="STC">ESTC R19330</idno>
+            <idno type="EEBO-CITATION">11760188</idno>
+            <idno type="OCLC">ocm 11760188</idno>
+            <idno type="VID">48665</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A44499)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 48665)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 534:23)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The life of faith in death, in expectation of the resurrection from the dead opened in a sermon at the funerall of the right worshipfull Mr. Thomas Slany late maior of the famous town and corporation of King-Lynn in the county of Norfolk : who deceased in the year of his maioralty, Jan. 10. 1649 / preached there by John Horn ...</title>
+                  <author>Horn, John, 1614-1676.</author>
+               </titleStmt>
+               <extent>[4], 30 [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Abraham Miller ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1649.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Cambridge University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Slany, Thomas, d. 1649.</term>
+               <term>Bible. --  N.T. --  Hebrews XI, 13, 14 --  Sermons.</term>
+               <term>Sermons, English.</term>
+               <term>Funeral sermons.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-01</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-02</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-04</date>
+            <label>John Pas</label>Sampled and proofread</change>
+         <change>
+            <date>2009-04</date>
+            <label>John Pas</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:48665:1"/>
+            <pb facs="tcp:48665:1" rendition="simple:additions"/>
+            <p>THE LIFE OF FAITH IN DEATH, In expectation of the Reſurrection from the DEAD. Opened in a Sermon at the Funerall of the Right Worſhipfull M<hi rend="sup">r</hi> 
+               <hi>Thomas Slany</hi> late Maior of the famous Town and Corporation of <hi>Kingſ-Lynn</hi> in the County of <hi>Norſolk,</hi> who decea<g ref="char:EOLhyphen"/>ſed in the year of his Maioralty, <hi>Jan.</hi> 10. 1649.</p>
+            <p>PREACHED THERE By JOHN HORN an unworthy Servant of God, in the Goſpel of his Sonne Jeſus Chriſt, whereof he is a Preacher to the Congregation at <hi>Lynn Allhallows.</hi>
+            </p>
+            <q>
+               <bibl>HEBREWS 6.12.</bibl>
+               <p>
+                  <hi>Be not ſlothfull, but follow the ſteps of thoſe who through faith and patience have inherited the promiſes.</hi>
+               </p>
+            </q>
+            <q>
+               <bibl>HOSEA 13.14.</bibl>
+               <p>
+                  <hi>I will ranſome them from the power of the grave, I will redeem them from death, O death, I will be thy plague, O grave, I will be thy deſtruction, repentance is hid from mine eyes.</hi>
+               </p>
+            </q>
+            <q>Fiducia Chriſtianorum Reſurrectio mortuorum, Contemplatio eſt ſpei in hoc ſpatio, non praeſentatio, expectatio, non poſſeſſio.
+<bibl>
+                  <hi>Tertul. de Reſ Carnis.</hi>
+               </bibl>
+            </q>
+            <q>Haec fidei vis eſt, quòd mediat inter vitam &amp; mortem, &amp; mortem tranſmutat in vitam,
+<bibl>
+                  <hi>Luther.</hi>
+               </bibl>
+            </q>
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>Abraham Miller</hi> dwelling in <hi>Black friers.</hi> 1649.</p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:48665:2" rendition="simple:additions"/>
+            <head>To his beloved Friend M<hi rend="sup">rs</hi>. <hi>MARY SLANY Relict</hi> of the late Worſhipfull M<hi rend="sup">r</hi> 
+               <hi>Thomas Slany,</hi> with his and their Children, Grace, Mercy and Peace, from God our Father, and our Lord Jeſus Chriſt.</head>
+            <opener>
+               <salute>Beloved,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">A</seg>T your motion and by your requeſt theſe papers are become more pub<g ref="char:EOLhyphen"/>like then was intended: not for any rare worth in them, but to ſatis<g ref="char:EOLhyphen"/>fle your deſire and eſteem of them, which though at firſt I was more inclinable to, conſidering that they bear ſome teſtimony, though not much, againſt ſome ſpreading evils of theſe times, yet upon ſecond thoughts I began to recoil, and ſhould have contented my ſelf with your private en<g ref="char:EOLhyphen"/>j<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ment of them, conſidering the plenty of books, and the ſlenderneſſe of what theſe contain, and what the temper of the world is, that they would be ready to laugh at and deride my doings, and accuſe me of arrogancy and ſooliſhneſſe: of arregancy as if I ſought to be known and taken notice of, of footiſhneſse in endeavouring it by (or in filling the world with) ſuch dead diſcourſes, and this had ſtifled it in its birth, and made it never for me to have ſeen the Sun in this way, had not my respect to you and your deſire, made me to diſregard theſe reaſonings which yet it did with ſome reluctancy, while I further conſidered, that as my weakreſſe would provoke ſome to ſleight the witneſſe born againſt their evils, ſo my plainneſſe might perhaps offend others, and engage them againſt me into ſome contentions, not which but their bettering and profit is my deſire: but Gods will be done in it, he is a fr<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> agent and can do all things, and oftentimes worketh by moſt unlikely means, and doth moſt good where leaſt is expected. One talent put to the improvement may bring forth a ſecond with is bleſſing on it, and though ſome may hart themſelves, yet others more ſober minded may happily pick ſomething from it that may ſerve to their profit, yea, ſome perhaps may finde leiſure to look on ſuch a Paper who either want it for, or money to procure larger volumes: for your ſakes then and for theirs I have adventu<g ref="char:EOLhyphen"/>red it to publike cenſure.</p>
+            <p>And ſeeing you were ſo much his whoſe furerall this ſolemnized, To you it's meet<g ref="char:EOLhyphen"/>eſt in the firſt place with theſe portions of himſelf he hath left ſurviving him, that I commend it, not to provoke you to renewed grieſ in thought of your leſſe of him, but to ſtir you up to imitate his vertues in mi<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ding his gains by them May you his and yours be ſo minded hereby of his or thoſe for<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>er worthies ſaith and walkings, as thereby to be ſtirred up to receive embrace and where you have enbraced to hold faſt the word and premiſes, and ſo to follow their vertuous footſteps in contempt of the world, and carneſt purſuit of the promiſe <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>reſt as to live by ſaith and die in ſaith <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> I ſhall thank <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>y labor b<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rciy well beſtowed, whoſe hearty prater is your proſperities, ſubſcribing my ſelf with my endeavours,</p>
+            <closer>
+               <signed>Yours, to ſerve you in the Goſpel of Chriſt, <hi>J. H.</hi>
+               </signed>
+            </closer>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:48665:2"/>
+            <head>To the Right Worſhipfull M<hi rend="sup">r</hi> 
+               <hi>THOMAS REVET</hi> Maior of the Town and Corporation of <hi>Lynn</hi> in <hi>Norfolk,</hi> with his worſhipfull Bre<g ref="char:EOLhyphen"/>thren and Aſſiſtants, Grace and Mercy in Chriſt Jeſus.</head>
+            <opener>
+               <salute>Right Worſhipfull,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">I</seg> Am bold to preſent you with theſe Papers, becauſe you were not only audi<g ref="char:EOLhyphen"/>tors of, but alſo much intereſſed in what they contain, they preſent you with a me nortall of a late head of yours, though untimely (as to your wiſhed be<g ref="char:EOLhyphen"/>nefit by him) cut off by the hand o<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> death, providence ſo ordering that the leſſer body ſhould therein be the praeludium and forerunning reprelentation of a greater, of whom you bear the image and ſuperſcription: what was wan<g ref="char:EOLhyphen"/>ting to his honour here by the ſhortneſſe of his Maioralty, I have endeavour<g ref="char:EOLhyphen"/>ed herein to ſupply, by adding to his memory, which though he need not for himſelf, yet in ſome things may be uſefull for us, ſomething it may afford us for inſtruction, ſomething for imitation. He was a man of parts, that's known I think to all of us, and yet I have heard intelligent men ſay they were known to few; what they were would beſt have appeared in their improvement: but before you and he came to that point (as to Magiſtracy) he and they too were almoſt gone: there is ſomething in that worthy of our inſtruction; when God gives you men of parts, make uſe of them (as to office) while ye may enjoy them, chiefly ſuch as are alſo exemplary for piety, and worthy imitation: and ſuch as have parts, be ye willing to improve them while ye have opportunity <hi>Post est occaſia calvae.</hi>
+            </p>
+            <p>When God preſents us with a mercy, it's wiſedom to meet i<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> in the face, and not let it ſlide by us, till it be paſt recovery. He was a man of integrity, mercy, piety, one that affected ho<g ref="char:EOLhyphen"/>neſty more then his honour, in theſe things he was worthy imitation. It's wiſdom (ſo far a<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> we may) to imitate in our ſelves whatſoever we are convinced of is good in others But have theſe Papers nothing elſe but a mention of him? perhaps your wiſedoms may pick out ſomething elſe, though through my little ability but weakly handled, yet that may afford ſome ſpirituall profit. If it be but to put you in minde of death: that's worth the thinking of, that well conſidered may make you the better while you live, but <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ndeed there are ſome other things that inclined me to the publiſhing it, chiefly the witneſſe herein born againſt a threefold ſpreading and overcommon malady, one that deme, the extent of the Goſpel-dectine of the death of Chriſt, and good will of God to ſinners, ſomething akinne to the old Phariſaiſon, that would tie it up to the elect, the lews and people proſelvted into themſelves, whom they therefore alſo judged of the ſame election with themſelves: denying it to Publicans and ſinners not ſo regulated, and to uncircumciſed gentile (the body and generality of them) not ſo proſelyted. The ſecond is the common pro<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hanneſſe of ſuperficiall Chriſtians and turners of the grace and Go<g ref="char:EOLhyphen"/>ſpel <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>f Chriſt into wantonneſs, that reſt in a name and notion of Chriſtianity, but deny the pow<g ref="char:EOLhyphen"/>er of it, of which ſort there are every where too many, The third is the ſect of the Sadduces, that deny the reſurrection, the viſible coming of Chriſt perſonally again, and the glorious per<g ref="char:EOLhyphen"/>formance of the promiſes at that his appearing, a too too ſpreading generation. May God make it uſefull to you to leade you beſides all theſe tocks, in the true ancient Scripture-doctrine and faith formerly alſo atteſted to in the Church in <hi>England,</hi> ſo to embrace and love the promiſed ſalvation, and ſo to follow the ſteps of this good man, and of other Worthies that have gone before him, in the belief of and hearty love to, cloſing with an entertainment of the Word of God, that it may produce like fruits in you as in them, unto death and in death, that you with them alſo may partake of the glorious reſurrection unto life and happineſſe, I ſhall have cauſe of much rejoicing: The fountain of mercy and wiſedom flow down upon you, ſill you with truth, with peace and righteouſneſſe, direct and bleſſe you, and make you bleſſings in your places and generations, So praieth,</p>
+            <closer>
+               <signed>Your Worſhips Servant to his ability, <hi>J. H.</hi>
+               </signed>
+            </closer>
+         </div>
+         <div type="hymn">
+            <pb facs="tcp:48665:3"/>
+            <head>Vpon the ſubject of this Book, An INSTRUCTION and HYMN.</head>
+            <lg>
+               <l>
+                  <hi>REader,</hi> ſee here how great a myſtery</l>
+               <l>Lies cropped up in Christianity.</l>
+               <l>Strange Paradoxes! h<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>r<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>'s a buſh o<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> flame</l>
+               <l>Burning yet no<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> conſumed by the ſame,</l>
+               <l>By <hi>Coll<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>quintida</hi> death in the ſet,</l>
+               <l>And yet ſo healed that it his teth not,</l>
+               <l>Drink from a rock, in gravell w<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>ſome feed,</l>
+               <l>In darkneſſe light, in midſt of eval good,</l>
+               <l>In ſickneſse health, the ſweeteſt caſe in pain,</l>
+               <l>In weakneſſe ſtrength, in loſſe the greatest gain,</l>
+               <l>Yea life in death, and in abſurdities</l>
+               <l>The depth of wiſdom, baſſling all the wiſe.</l>
+               <l>The tell how men by falling riſe, and how</l>
+               <l>By leſing what they have they richer grow<g ref="char:punc">▪</g>
+               </l>
+               <l>How by diſhonour m<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>n may mount on high,</l>
+               <l>By being overcome have victory.</l>
+               <l>Here haſt thou <hi>meat out of the eater,</hi> here</l>
+               <l>
+                  <hi>Sweet from he ſtrong,</hi> holdneſſe in greateſt fear,</l>
+               <l>A dying man ſild full of life and breath,</l>
+               <l>Conquer'd and yet triumphing over death,</l>
+               <l>But whence all thu? or how can theſe things be?</l>
+               <l>Shall Paradoxes be Divinity?</l>
+               <l>Behold, here's God with ma<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>, <hi>Emmanuel,</hi>
+               </l>
+               <l>That only word <gap reason="illegible" resp="#PDCC" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> d<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>th unſpell.</l>
+               <l>In God is good, light <gap reason="illegible" resp="#PDCC" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> ſtrength caſe and gain</l>
+               <l>In man all, darkneſſe, ſickn<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſſe, weakneſſe, pain,</l>
+               <l>Yea ſorrow, leſſe, and miſery, and death,</l>
+               <l>God fountain is of bleſſe, jor, life and breath.</l>
+               <l>In Chriſt theſe <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>, Behold the myſtery,</l>
+               <l>Manhead united with the Deity.</l>
+               <l>Yea, all thoſe properties and conſequents</l>
+               <l>Of each, found place in him: a battell thence</l>
+               <l>In him was fought, while ſin on righteouſneſſe,</l>
+               <l>Death on eternall life, and curſe on bleſſe,</l>
+               <l>Made their aſſault, for theſe on him did ſeiſe,</l>
+               <l>
+                  <hi>Cauſe God to bruiſe his precious ſoul did pleaſe.</hi>
+               </l>
+               <l>Death with us train could finde but ſmall alode,</l>
+               <l>Though the humanity did yeeld thereto,</l>
+               <l>The Deity ſoon reſoued is therefro,</l>
+               <l>And ſince our evils in that death did meet.</l>
+               <l>
+                  <hi>The eater yeelded meat,</hi> and <hi>the ſtrong ſweet.</hi>
+               </l>
+               <l>God ſhen'd himſelf in man, in weakneſſe ſtrength,</l>
+               <l>In darkneſſe glortom light, in ſhortneſſe length,</l>
+               <l>Even length of daies and immortality,</l>
+               <l>Death being ſwallowed up in victory,</l>
+               <l>Of which mans nature being dispeſsest,</l>
+               <l>Is now become in him Gods endleſſe reſt,</l>
+               <l>Yea, men is there the ſeat of bleſſings all</l>
+               <l>Aſ<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ded, and captivity made thrall,</l>
+               <l>Which treaſtored are in him for us, from thence</l>
+               <l>Bleſſing of every kinde God doth <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>spenſe.</l>
+               <l>Chriſty his ho<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>y Word and Spirit, by which</l>
+               <l>He peace and pardon in <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Name doth preach<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:punc">▪</g>
+               </l>
+               <l>By theſe he worketh ſaith, and that the <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>
+               </l>
+               <l>'Twixt us and Chriſt bringing to unitie</l>
+               <l>With him, from which doth ſuch communion ſlow</l>
+               <l>That he and we no longer are as two;</l>
+               <l>
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>oyn'd in one ſpirit as he took our fleſh,</l>
+               <l>So he gives us his Spirit, which doth refreſh</l>
+               <l>And fill our hearts with joy: Gods power he is</l>
+               <l>Conquering death and its accomplices</l>
+               <l>In us, as once in Christ, with whom joyn'd thus,</l>
+               <l>He writes his Name upon us, <hi>God with us,</hi>
+               </l>
+               <l>He is our life in death, hope in deſpair,</l>
+               <l>Our strength in weak<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſſe, and he doth repair</l>
+               <l>Our breaches all, while he doth make us ſee</l>
+               <l>That we ſhall r<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſt and reign as well as he.</l>
+               <l>Oh glorious death by which our life appears!</l>
+               <l>Oh glorious Spirit that our hearts no bears!</l>
+               <l>Oh gloricus Word that doth this tidings bring!</l>
+               <l>Oh glorious Cha<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> where our heavenly King</l>
+               <l>Comes riding to <gap reason="illegible" resp="#PDCC" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>, precious Faith</l>
+               <l>That ſuch a ſpring and ſuch an iſſue hath.</l>
+               <l>Oh precious Lord that bar<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſt to us ſuch love!</l>
+               <l>Try ſelf ſo to abaſe, <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ll to remove</l>
+               <l>From <gap reason="illegible" resp="#PDCC" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> whom it lay, and would have wrought</l>
+               <l>Our and eſſe ruine, Thou to is haſt brought</l>
+               <l>Life, yea, immortall life. Thou art the day</l>
+               <l>That lightnest our night. Thou art the way</l>
+               <l>By which God comes to <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> in he great night,</l>
+               <l>By which he give to <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> his holy Spirit,</l>
+               <l>By which we come to him and finde his power</l>
+               <l>Infuſing life into us in deaths hour.</l>
+               <l>Th<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s art the Word, on thee the Spirit is put</l>
+               <l>To open eyes that blinde are, and unſhut</l>
+               <l>The ſtepped ears, from bondage to ſet free,</l>
+               <l>And to get over d<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>th full victory.</l>
+               <l>Oh ſhew thy ſelf to us, be thou our life,</l>
+               <l>Fill us with peece and joy, end all our ſtrife,</l>
+               <l>Be thou our All, open our hearts to ſee,</l>
+               <l>And fill us with<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ly glory, ſo ſhall we</l>
+               <l>Triumph in midſt of death, and ſing thy praiſe,</l>
+               <l>Full well aſſured that thou then<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e wilt raiſe</l>
+               <l>Vs up again, and ſet us on thy Throne,</l>
+               <l>For evermore with God to be at one.</l>
+            </lg>
+         </div>
+      </front>
+      <body>
+         <div type="sermon">
+            <pb n="1" facs="tcp:48665:3"/>
+            <head>THE LIFE OF FAITH IN DEATH.</head>
+            <head type="sub">The Text.</head>
+            <epigraph>
+               <q>
+                  <bibl>HEBREWS 11.13, 14.</bibl> All theſe died (<gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>) in <hi>(or according to)</hi> faith, not having received the promiſes, but ſeeing them afar off, they were perſwaded, and embraced them, and confeſſed that they were ſtrangers and ſojourners in the earth.</q>
+            </epigraph>
+            <p>
+               <hi>For they that ſay ſuch things manifeſt that they ſeek a Countrey.</hi>
+            </p>
+            <p>
+               <seg rend="decorInit">T</seg>He cuſtome of a ſolemn interring of the dead bodies of deceaſed friends, and of making lamentations over them is very ancient and laudable, the mention of it is as old as <hi>Abrahams</hi> time, we finde it was then a cuſtome uſuall in the Eaſtern countries, as we reade in the book of <hi>Geneſis</hi> of the Patriarchs and Egyptians, and ſurely in its original it was <hi>teſſera &amp; fidei &amp; amoris,</hi> a pledge and teſtimony both of their faith and love, <hi>fidei</hi> a witneſſe of their faith that they beleeved and looked for the reſurrection of the body, and therefore would decently beſtow coſt upon, and interre the body: <hi>amoris,</hi> of their love to the deceaſed, whoſe reliques there<g ref="char:EOLhyphen"/>fore they ſo ſarre honoured, and whoſe loſſe (or abſence rather) they lamented, as in their preſence formerly they had been delight<g ref="char:EOLhyphen"/>ed: thus I might ſhew you <hi>Abraham</hi> himſelf the father of the faith<g ref="char:EOLhyphen"/>full, <hi>Gen.</hi> 23.2. burying the Corps of his deceaſed <hi>Sarah,</hi> and weep<g ref="char:EOLhyphen"/>ing for her, and yet it is obſervable that the Jews write the letter <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> in the word <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> that ſignifies to weep very ſmall <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> to in<g ref="char:EOLhyphen"/>timate the practice of <hi>Abraham</hi> to have been ſutable to what the Apoſtle <hi>Paul</hi> expreſly wiſhes that beleevers in the like caſes ſhould
+<pb n="2" facs="tcp:48665:4"/>be, 1 <hi>Theſ.</hi> 4 13. a moderate mourning for their dead in the Lord, as thoſe that believing the doctrine of the reſurrection, are not with<g ref="char:EOLhyphen"/>out hope for them, I might point you likewiſe to <hi>Jacobs</hi> buriall of his wife <hi>Rachel,</hi> and his and <hi>Eſaus</hi> buriall of their father <hi>Iſaac, Gen.</hi> 35.19, 20, 29. and to <hi>Joſeph</hi> and his brethren, with many of the E<g ref="char:EOLhyphen"/>gyptians, making a very great lamentation for old <hi>Iſrael</hi> when they buried him, inſomuch that the place where they ſtaied lamenting him, got from thence a new denomination, being afterward called <hi>Abel Mizraim,</hi>
+               <note place="margin">Gen. 50.10, 11.</note> or, the Egyptians mourning, becauſe of the exceſ<g ref="char:EOLhyphen"/>ſive mourning of the Egyptians, by which it ſeems that the Egypti<g ref="char:EOLhyphen"/>ans though leaſt akinne to him, yet made the greateſt lamentation, ſurely not becauſe they loved him better then his children, but becauſe they were not ſo well inſtructed, and therefore had nei<g ref="char:EOLhyphen"/>ther ſo much knowledge, nor ſo much hope of the reſurre<g ref="char:EOLhyphen"/>ction which ſhould have put more bounds unto their mourning, ex<g ref="char:EOLhyphen"/>cept we ſhall ſay that the whole company coming out of Egypt had the common name of Egyptians put upon them, becauſe ſo adjudged to be by the people thereabout inhabiting. I might tell you too of the interring of <hi>Aaron, Miriam,</hi> and the lamentations made for them, as alſo for <hi>Moſes, Joſhua, Samuel,</hi> and many others: but then as the Apoſtle ſales in this <hi>Heb.</hi> 11. in another caſe, the time would fail me, or my ſtrength would fail me by exceeding the time: I ſhall therefore content my ſelf with what is ſaid to that, and turn from this diſcourſe to my text, and ſee what it will afford for our obſervation and uſefullneſſe, before we make further application of our diſcourſe to the preſent occaſion.</p>
+            <div type="part">
+               <head>All theſe died in <hi>(or according to)</hi> faith</head>
+               <p>The Apoſtle in this Epiſtle had moſt ſweetly opened the doctrine of Chriſt to the Hebrews that were partakers of the heavenly call, and thereby brought to beleeve, and thence called holy brethren (<hi>ch.</hi> 3.1.) and from his natures, offices, ſufferings, and from the dig<g ref="char:EOLhyphen"/>nity of them all, he had abundantly evinced and cleared it, that they had good ground to hold faſt the faith and profeſſion of him firm without wavering, and not be moved therefrom by any cauſe or reaſon: In the 10th Chapter he had laid down many other argu<g ref="char:EOLhyphen"/>ments alſo to preſſe them thereunto, as from the danger of willing backſliding, <hi>If we ſin willfully, after the knowledge of the truth, there remains no more ſacrifice for ſin,</hi> &amp;c. verſ. 25, 26. and from the con<g ref="char:EOLhyphen"/>ſideration of the excellency apprehended by them in Chriſt in their illumination, and the effects of that apprehenſion in them, <hi>&amp;c. verſ,</hi>
+                  <pb n="3" facs="tcp:48665:4"/>33, 34. <hi>Remember the daies in which after ye were illuminated, ye en<g ref="char:EOLhyphen"/>dured a great fight of affliction,</hi> &amp;c. from the greatneſſe of the re<g ref="char:EOLhyphen"/>ward promiſed, and to be certainly enjoied by them in its ſeaſon, if they hold faſt their faith and confidence, and were not turned aſide therefrom. <hi>verſ.</hi> 35. <hi>Caſt not away your confidence which hath great recompence of reward,</hi> to which he adds an inſtruction about their need of patience, <hi>ver.</hi> 36. and uſefullneſſe and excellency of faith, as that which moſt ſuiteth with the condition in which God uſeth to leade his, and in which they ſhould meet with preſervation unto the enjoyment of the reward promiſed them, <hi>verſ.</hi> 38. <hi>Now the juſt ſhall live by faith,</hi> or, the juſt by faith ſhall live: without that the pro<g ref="char:EOLhyphen"/>feſſion will be worthleſſe, the conſidence will vaniſh, and patience will have no place: but there will either be an open revolting or a ſecret withdrawing in a barren, empty, dead adhering to an outſide profeſſion. Now in this Chapter he confirms what he had there ſaid, that faith is that in which God exerciſeth his people, and gives them life, that God doth not uſe to keep them by ſenſe, in giving in an enjoyment of things promiſed, ſo much as by faith in his word with<g ref="char:EOLhyphen"/>out ſenſible feelings and experiments: but firſt of all, he laies down a definition of this faith, <hi>v.</hi> 1. Its the ſubſiſtance of things hoped for, and the evidence or argument of things not ſeen, that puts an end to vain empty diſputations, How do you know that God made the world, or that the Scriptures are the word of God, or are true &amp;c.? Faith makes it evident to me. God hath ſaid thus, and in his ſaying I am convinced and perſwaded to believe, though I ſee not the things of which he ſpeaketh to me, and in believing I am ſtaied and ſatisfied about it, and its become to me as firm a principle as if I had ſeen. Its an argument leaning upon Gods authority, ſpeaking and mani<g ref="char:EOLhyphen"/>feſting it ſelf unto the conſcience, that gives a ſu<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſiſtence to things hoped for, as to my minde: ſo that though we ſee not the things we hope for, nor are they as yet in being, yet they being beleeved, have a kinde of ſubſiſtence in the heart: and the ſoul acteth upon that ſubſiſtence towards them as really as if it ſaw them with the bo<g ref="char:EOLhyphen"/>dily ſenſe, as if they were already exiſtent and had a being, which alſo they ſhall have in their ſeaſon. From that the Apoſtle proceeds to give divers inſtances of the excellency, uſefullneſſe and <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>fficacy of this faith in the prime and choice Saints of God in all ages, how they have lived by it, and in the exerciſe of it, without the enjoyment of the things ſet before them and beleeved: and he begins at <hi>Abel,</hi> v. 4. and ſo paſſes on to <hi>Enoch,</hi> ver. 5. <hi>Noah,</hi> ver. 7 a<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> thence to <hi>Abra<g ref="char:EOLhyphen"/>ham, Iſaac,</hi> and <hi>Jacob,</hi> ver. 8, 9. and <hi>Sarah,</hi> ver. 11. or whom he h<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>re
+<pb n="4" facs="tcp:48665:5"/>ſaith in the text, <hi>All theſe dieà in faith, not having received the promi<g ref="char:EOLhyphen"/>ſes,</hi> &amp;c.</p>
+               <p>The words <hi>(theſe all)</hi> ſeem to referre to <hi>Abraham, Iſaac, Jacob</hi> and <hi>Sarah,</hi> both becauſe of <hi>Enoch,</hi> of whom its ſaid <hi>verſ.</hi> 5. that he was tranſlated that he ſhould not ſee death, who therefore can<g ref="char:EOLhyphen"/>not be here included (except we take his change in his tranſlation to be equivalent to death) and alſo becauſe that he tels us <hi>verſ.</hi> 15, of theſe forſaking their Countrey, which we finde no where affirm<g ref="char:EOLhyphen"/>ed of thoſe others mentioned before theſe. But let us come to the words, and note ſomething from them, that preſent themſelves un<g ref="char:EOLhyphen"/>to us, for I ſhall not ſpend time about a curious ſuperſluous cutting them in pieces: <hi>Abraham, Iſaac</hi> and <hi>Jacob</hi> were worthy perſons highly favoured of God, choſen by him to peculiar dignity and pri<g ref="char:EOLhyphen"/>viledges, Princes and Prophets, and very famous in their proper ſea<g ref="char:EOLhyphen"/>ſons, yet behold what the Apoſtle in the firſt words of the text af<g ref="char:EOLhyphen"/>firmeth of them all, <hi>Theſe all died,</hi> Whence let us note (and I ſhall but brieſly note things, and not bound up my diſcourſe unto the un<g ref="char:EOLhyphen"/>folding of ſome one only propoſition)</p>
+               <p>
+                  <hi>That no dignity or priviledge though very great will exempt us from dying.</hi>
+                  <note place="margin">
+                     <hi>Note</hi> 1.</note>
+               </p>
+               <p>Death is a due debt to nature, <hi>Omne quod generatur corrumpitur,</hi> whatſoever hath a naturall generation is alſo ſubject to corruption, death is in the preſent principles of every earthly living being, and that as by mans ſinne meritoriouſly, ſo by Gods juſt ſentence upon mans ſinning judicially,
+<note place="margin">Heb. 9.27.</note> 
+                  <hi>Statutum eſt,</hi> &amp;c. <hi>Its enacted,</hi> reſolved upon and ordained <hi>for man once to die,</hi> and that <hi>once,</hi> though for <hi>time</hi> uncer<g ref="char:EOLhyphen"/>tain to us, yet that it ſhall finde a <hi>time,</hi> nothing more ſure, yea, many a time it ſeems very near us, and we are in a tendency to it from our birth to our laſt gaſp. By many waies, diſeaſes, infirmities or providen<g ref="char:EOLhyphen"/>tiall accidents we may, and by ſome or other of them we are ſure to arrive at death: we reade of none exempted ſave <hi>Enoch</hi> and <hi>Elias,</hi> the firſt changed, the other aſſumed (for as for the Virgin <hi>Mary</hi> we have not ſuch authentick authority or warrant to beleeve it) thoſe two did God exempt from the common way of fleſh, to ſhew in them his power over all fleſh, over nature and naturall principles and inclinations, and that we might the more readily be induced to believe the benefit of Chriſt in the reſurrection of the dead, when we hear that he preſerved ſome from death and made them as pled<g ref="char:EOLhyphen"/>ges to us of the certainty of that glory and immortality that is the promiſed portion of all that believe in him through his death. And yet ſurely even they underwent a change equivalent to death, though
+<pb n="5" facs="tcp:48665:5"/>they ſlept not in death, as the Apoſtle ſaies, 1 <hi>Cor.</hi> 15.51. <hi>We ſhall not all ſleep, but we ſhall all be changed,</hi> though we lie not in death, yet we muſt paſſe through it, we muſt put off this mortality, theſe innate principles of death: we ſhall not be as now we are, when we come to inherit what now we believe for. But for us and the reſt of mankinde death in a more proper way is to be expected by us, and will come upon us (except the coming of Chriſt ſhould ſuddenly prevent us, and then ſuch a change might be allotted us) It's not the being great or gracious that exempts from that event, <hi>Theſe all died,</hi> many have lived many years, yet (as the longeſt day hath its night) ſo this hath been the conſtant Cataſtrophe and winding up of them all in their genealogies, <hi>They all died: Jared</hi> lived nine hun<g ref="char:EOLhyphen"/>dred and ſixty two years, and then he died: <hi>Methuſelah</hi> lived nine hundred ſixty and nine years, but then it follows too, he alſo died: ſo <hi>Noah</hi> and <hi>Abraham</hi> and <hi>Iſaac</hi> and <hi>Jacob,</hi> all gracious and holy men, and found righteous in the<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> generations, and yet theſe all died. It's that that <hi>David</hi> propounds to all, <hi>Pſa</hi> 49.1, 2. <hi>high and low, rich and poor, one and other,</hi> becauſe its the lot of all, that death will o<g ref="char:EOLhyphen"/>vertake them all, none can ſhift from it, <hi>None can give a ranſome to God for his brother, that he ſhould live alwaies and never di<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>, the price is too great and it ceaſeth for ever.</hi> We ſee wiſe men die as well as fools, righteous men as well as ſinners, Magiſtrates as well as Subjects, rich as well as poor, one as well as another, there is no eſcape of any in this battel, nay men as well as the bruit beaſts, for as to this com<g ref="char:EOLhyphen"/>mon condition of fleſh, there is one event to them both, though not as to the ſpirits of both, nor as to the ſupernaturall work of the re<g ref="char:EOLhyphen"/>ſurrection of the body, but as to death, one thing happeneth to both, both are of the duſt, and both go to the duſt:
+<note place="margin">2 Sa<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>. 14.14.</note> 
+                  <hi>Not only they but we al<g ref="char:EOLhyphen"/>ſo muſt needs all die, and our ſtrength is as Water ſpilt upon the ground, neither is there any reſpect of perſons with God.</hi> Serius aut<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>citius, <hi>&amp;c.</hi> ſooner or later we muſt all ſtoop to death in the fleſh, <hi>Theſe all died.</hi>
+               </p>
+               <p>A truth known to all, and to be experimented by us all, and yet a truth as little though of as almoſt any, and as little made uſe of, well might <hi>David</hi> cry out as he did, when he was about to ſpeak thereof <hi>Audite hoe omnes populi,</hi> &amp;c. <hi>Pſa.</hi> 19.1. Hear this all ye peo<g ref="char:EOLhyphen"/>ple, for though we all ſee it, and ſhall feel it, yet we minde it not, few incline their ears to hear what God ſaies to us in it, but hear this all ye people, rich and poor, high and low, one and other, All muſt die: Ye that are rich and wealthy, and have ſeraped much together, and laid it up for poſterity, ye muſt die, and leave all this that ye have gotten, and ye know not who ſhall poſſeſſe it after you. Hear this all
+<pb n="6" facs="tcp:48665:6"/>ye gallants of the world that are fine and faſhionable, and delight to deck up your ſelves in coſtly apparell, <hi>Quid ita colitis eſcam ver<g ref="char:EOLhyphen"/>mibus?</hi> you muſt die and leave theſe bodies which you ſo dreſſe up, for the worms to feed upon. Hear this ye that addict your ſelves to pleaſures, and rejoice in a thing of nought, and make your ſelves merry with meer vanities, ye muſt all die, and death will put an end to your mirth and jollity, to your pleaſure and voluptuouſneſſe, chambering and wantonneſſe, and nothing but the guilt of theſe things ſhall deſcend with you. Hear this ye that are poor and pincht with want, and bitten with ſorrow, that fill your ſelves with cares, and pine away with grief, ye muſt die too, and then your poverty and afflictions here ſhall have an end, ye ſhall then have no more need of what now ye murmure, or grieve, or turmoil your ſelves for want of: It's but a momentany condition that you are here afflicted with, ye muſt die, and death will put an end to it, yea, death will put an end to all theſe things, weal and woe, ſorrow and mirth, riches and pleaſures, and whatever here we have, as to us. <hi>Surely man in his best eſtate here is altogether vanity,</hi>
+                  <note place="margin">
+                     <hi>Pſal.</hi> 39.6.</note> like a bubble full of winde and emptineſs, eaſily broken and blown away with a blaſt, and then that that was ſweld up into a great appearing magnitude, proves as no<g ref="char:EOLhyphen"/>thing, makes no further ſhew or appearance that we ſhould look after it; Oh! why then do ye purſue after vain things? why ſport ye your ſelves ſo eagerly in voluptuouſneſſe? or ſpend ſo much coſt on duſt and aſhes, and pride your ſelves of that ye have no hold on? or care ſo much for that that ſtrangers or victors may devour up when you are gone? why labour ye for that that periſheth, and de<g ref="char:EOLhyphen"/>light in that that will not endure? Sure the very thought of death might inſtruct us all to ſobriety in all conditions: Sobriety in earthly delights, for we muſt leave them, Sobriety in honours and prefer<g ref="char:EOLhyphen"/>ments, for we muſt leave them, Sobriety in apparell, for we muſt leave it, Sobriety in caring for and getting in the things of this world,
+<note place="margin">1 Tim. 6.7.</note> for we muſt leave them: <hi>As we brought nothing into this World With us, ſo we are ſure We can carry nothing out With us,</hi> Sobri<g ref="char:EOLhyphen"/>ety in all things for we muſt die to them, Sobriety in fears of grow<g ref="char:EOLhyphen"/>ing enemies,
+<note place="margin">Pſa. 49.17, 18.</note> 
+                  <hi>Be not thou afraid When one is made rich, and the glory of his houſe is encreaſed,</hi> yea, though he be one that b<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>tes thee, and ſo hath more power viſibly to harm thee, <hi>for his day will come,</hi> he alſo is but mortall, and death will overtake him, and bring down his ex<g ref="char:EOLhyphen"/>cellency, and <hi>when he dies, he ſhall not take any thing with him, nor ſhall his glory and pomp deſcend after him;
+<note place="margin">Iſa. 57.12.</note> who art thou that thou ſhoul<g ref="char:EOLhyphen"/>deſt be afraid of a man that ſhall die, and of the Son of man that ſhall be
+<pb n="7" facs="tcp:48665:6"/>made as graſſe?</hi> though here enemies be ſtrong and potent, and uſe their power wickedly to perſecute the innocent and oppreſſe them, yet this their ſtate is but for a moment, they alſo ſhall die and goe down to the duſt, and then <hi>where is their fury?</hi> in the grave we ſhall be quiet, and they have no power to harm us:
+<note place="margin">Job. 3.17, 18, 19.</note> 
+                  <hi>There the wicked ceaſe from troubling, and there the weary are at reſt, there the priſoners reſt together, and they hear not the voice of the oppreſſour, the ſmall and great are there, and the ſervant is free from his maſter,</hi> yea, the thought of death might further us in taking of our Saviours counſell, <hi>Joh.</hi> 6.29. <hi>Labour not for the meat that periſheth, but for that that will en<g ref="char:EOLhyphen"/>dure to life eternall.</hi> Set not we our hearts on theſe things, whereof death will ſurely deprive us, and we know not how near that is unto us: but look we after thoſe things that will abide with us after death, and carry us through death, which it hath no power over, nor can take from us, the favour of God, the light of his counte<g ref="char:EOLhyphen"/>nance, faith and a good conference, aſſurance of eternal happineſſe, when thou haſt theſe things thou muſt rejoice indeed: and thy joy. nor men, nor death can take away from thee. <hi>Theſe all died.</hi>
+               </p>
+               <p>But wherefore died they? There might be many reaſons given, but I will not inſiſt upon them, they died that they might be removed from the evil of the world, and not alwaies therewith burthened, <hi>Iſa.</hi> 57 1. <hi>The righteous is taken away from the evil to come,</hi> and <hi>they died that they might rest from their labour,</hi> Rev. 14.13. that having done their work and ſerved their generation (as is ſaid of <hi>David,</hi> Act. 13.36.) they might go to bed and ſleep,
+<note place="margin">
+                     <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>.</note> they ſhall enter into reſt or peace: <hi>they ſhall reſt in their beds, each one walking in his up<g ref="char:EOLhyphen"/>rightneſſe,</hi> Iſa. 57.2. thence death is uſually in Scripture called a ſleep, ſuch a one fell aſleep, and ſuch a one ſlept with his fathers: thence the heathen Poets have alſo called ſleep <hi>Placidiſſima mortis imago,</hi> and <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, the pleaſant image, reſemblance, and as it were the premeditation of death. But I paſſe from theſe things, and goe forward with the text, for this is not the buſineſſe that the Apoſtle here mainly propounds, though very uſefull for us to conſi<g ref="char:EOLhyphen"/>der, and at this time alſo very ſeaſonable and ſutable with our pre<g ref="char:EOLhyphen"/>ſent occaſion, that we alſo might be ſtirred up with earneſtneſſe to pray as that good man of God, <hi>Pſa.</hi> 90.12. <hi>So teach us O Lord to number our daies, that we may apply our hearts unto wiſedom:</hi> but the Apoſtle adds,</p>
+               <p>
+                  <hi>Theſe all died</hi> (<gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>) <hi>in</hi> (or according to) <hi>faith, Secundum fidem,</hi> after the faith. What? Did they die in faith? Did their faith die? Verily no, they did not caſt away their faith when they died,
+<pb n="8" facs="tcp:48665:7"/>but exerciſed it: their act of dying too was done in faith, and accor<g ref="char:EOLhyphen"/>ding to their faith, they died in an exerciſe of faith, that it might be further manifeſt (according to the firſt propoſition and prime in<g ref="char:EOLhyphen"/>tent of the Apoſtle here) that they did live by faith, as they did be<g ref="char:EOLhyphen"/>lieve in God while they lived, ſo when they came to die, they yeeld<g ref="char:EOLhyphen"/>ed up themſelves to God in that belief, and were not ſhaken from it, no not by death: they feared not in the valley of the ſhadow of death, <hi>Pſa</hi> 23.3. nor fainted in the hour of death, <hi>Gen.</hi> 49.18. even then alſo they waited for Gods ſalvation, though death ceiſed on their bodies, yet they retained, and let not goe their confidence: though the day of their lives here was expired, yet died not their hopes and hearts within them, but were ſupported by faith, with the expectation of another day, in which the promiſes ſhould be enjoy<g ref="char:EOLhyphen"/>ed, and here we may further note the excellency of faith.</p>
+               <p>
+                  <hi>They that live by faith die in faith, the just by ſaith fi<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>de life through their faith, even in the midst of death.</hi>
+               </p>
+               <p>
+                  <hi>Theſe all died in faith,</hi> In this theſe righteous ones diff<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>r f<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>m others, All die, but die not <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, as becometh fa<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>th, or with an experiment of the power of faith, all die paſſively, they ſ<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ffer the pains of death, and have their lives fe<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>hed from them, but all are not active in death, willingly and believingly to reſign up their ſpi<g ref="char:EOLhyphen"/>rits to God, and caſt themſelves into his arms with confidence that he will keep and reſtore them, and notwithſtanding death intervene their receit of his word and the performance of his promiſe, yet he will not fail of his word, but perform every jot and tittle of it to them. This is the carriage and priviledge of thoſe that have the word of God abiding in and united by faith with them, <hi>Theſe all di<g ref="char:EOLhyphen"/>ed in faith,</hi> theſe die in the Lord, 1 <hi>Th.</hi> 4.16. <hi>Rev.</hi> 14.3. Through faith they cloſe with and are encloſed in the power, ſtrength and vertue of the Lord Jeſus Chriſt, by which their ſouls are acted and carried with lively hope and expectation of good from God through him, and as they live in him ſo they die in him too, as they walk in his ver<g ref="char:EOLhyphen"/>tue and power while alive in the body, ſo in the ſame vertue &amp; pow<g ref="char:EOLhyphen"/>er putting forth it ſelf in (yea encompaſſing) their ſouls, through faith they depart out of the body unto God, and depo<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e themſelves with God, till the time in which he ſhall reſtore them. Theſe hold faſt their faith to the death and in death, that they mighthe examples and encouragem <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s to us alſo to hold <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſaſt<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> that we may have the like uſe and bene<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap> of it in our deaths<g ref="char:punc">▪</g> But may ſome object.</p>
+               <p>But how do theſe things ſtand together,
+<note place="margin">
+                     <hi>Object.</hi>
+                  </note> Faith and Death? When Chriſt hath ſaid, that if a man keep his ſaying he ſhall never ſee
+<pb n="9" facs="tcp:48665:7"/>death? <hi>Joh.</hi> 8.51. What is it to keep his ſaying but to believe his ſay<g ref="char:EOLhyphen"/>ings, and hold faſt that belief? and did not <hi>Abraham</hi> keep his ſay<g ref="char:EOLhyphen"/>ings, and the Prophets keep his ſayings, might not we be offended at Chriſt as the Jews were, and ſay with them, All theſe had faith, and kept it to the death, and yet as the Apoſtle here witneſſeth, they all notwithſtanding that, died, how is it then that Chriſt ſaith, If any man keep my ſayings he ſhall never ſee death?</p>
+               <p>Oh how myſterious is the word of God,
+<note place="margin">
+                     <hi>Anſw.</hi>
+                  </note> and what a riddle to fleſhly wiſedom and humane <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nſe! It's to be believed and held for true by faith, not to be judged of as true or falſe by the verdict of our ſenſe: certainly both Chriſt and his Apoſtles ſaid the truth, he that keeps his ſayings ſhall not ſee death, and yet theſe that kept his ſayings (for before <hi>A<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>ah<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>m</hi> was Chriſt was, and his ſayings they were that he received) did all die, yea, the Apoſtle here hints a ſolution to that doubt of the appearing contradiction in them, when he ſaies <hi>theſe all d<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>d in faith,</hi> for in this very thing that they died in faith, they were ſo preſeryed that they did not ſee death, for this very fa<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>h in which they died, carried them above ſenſe, and took their eye off from death, and ſet it upon life, ſo that they ſaw, ſou<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>d felt, experimented life in death, even when they d<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ed ac<g ref="char:EOLhyphen"/>cording to the fl<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>h, yet the then lived in their ſpirits; their bodies did but ſleep in death, while their ſp<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>its lived above death, being made partakers of Jeſus Chriſt (as he word of God to be made fleſh, who is the reſurrection and the life) and the very death of death, putting it to death, they paſſed through the ſhadow of it, but they ſaw not, felt not, found <gap reason="illegible" resp="#PDCC" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> of it, they ſaw God in their death, and the ſight of him <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>o <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ook up and filled their eye that they could not ſee death Or 2. they ſaw not that death that is <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, for ever, for indeed that is death and worthy the name of death, <hi>the ſecond death,</hi> the other, the firſt death,
+<note place="margin">Rom 3.12,</note> the condemnation that came by the firſt man upon all men, that ſpent it ſell upon Chriſt, being by the wiſe and mercifull God <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>a<g ref="char:punc">▪</g> ſlated upon him,
+<note place="margin">2 Tim. 1.10</note> and he hath abo<g ref="char:EOLhyphen"/>liſhed it ſo in and by himſelf, that nothing but the carcaſſe and ſha<g ref="char:EOLhyphen"/>dow of it abideth for us to ſee or grapple with, ſo that he that ſees but it, ſees not death properly but only the ſhadow and ſhell of it: Its life, power, and proper vigour is by the death of Chriſt ſwallow<g ref="char:EOLhyphen"/>ed up, aboliſhed and gone<g ref="char:punc">▪</g> he then that never ſees the ſecond death, ſees not death, for there is no other death by way of puniſhment of man for his ſinne, that's prope<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>y death, but it, remaming, and that hath no power upon Chriſt or any in him: the juſt ſhall live by faith in the midſt of the ſhadow of the other death, and he ſhall live out
+<pb n="10" facs="tcp:48665:8"/>of the way and danger of this ſecond death, he ſhall never be hurt of it either by the bearing it or fearing it, his faith ſhall keep him from the firſt, and being exerciſed carry him through and above the ſecond, and he ſhall never be overcome or over-powred by it, <hi>thence bleſſed and holy is he that hath part in the firſt reſurrection,</hi>
+                  <note place="margin">Rev. 20.6.</note> that hath part in Chriſt the firſt begotten from the dead, the reſurrection and the life, that in their ſpirits are raiſed with him, and ſhall have their bodies raiſed with the juſt at his glorious appearing.</p>
+               <p>Seeing then that we muſt all needs die,
+<note place="margin">
+                     <hi>Appli<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>.</hi>
+                  </note> and that's our portion in the fleſh, and there is a way by which we may ſo die as not to ſee death, <hi>viz.</hi> to die in faith, what wiſedom is it to take that courſe that we may ſo die, that we may ſee no death when we die, feel no ſting in death, finde it but a ſhadow that hath no deadly ſubſtance in it, nay rather finde it lighted with the glory of eternall life, ſeen and taſted through it? that we may ſee life in death, a life beyond, above and without death. Oh how terrible is death to men when they ſee death in it! when they experiment and feel a ſting in it, the ſting of a ſelf-condemning conſcience, and the pricks of the ſe<g ref="char:EOLhyphen"/>cond death in the firſt death. When they ſee death and nothing but death, when life is hid from their eyes, and ſo their hearts and thoughts die within them together with or before their bodies: when they die full of deſpair, ſtrangers from and hopeleſſe of ever finding the life of God: that will be a black grieſly day to a ſoul that ſees not life in it, what need then to cry to God here, <hi>ſo to teach us to number our daies, that we may apply our hearts to Wiſedom?</hi> the wiſedom of God in its ſayings, reproofs, counſels, cals, that it pow<g ref="char:EOLhyphen"/>ring out its ſpirit upon us, and opening its precious words to us, we may be filled with faith and courage, and be in ſuch a ſtate as in which to ſee no death, that we may ſo believe and live in and by faith in the power and exerciſe of it, that in all our dying conditi<g ref="char:EOLhyphen"/>ons, yea, when we come to breath out our ſouls we may die in faith, die according to faith and not according to ſenſe; Even ſome be<g ref="char:EOLhyphen"/>lievers not living and dying in an exerciſe of faith, are many times filled with ſorrow, fears, faintings, eſpecially in their dying caſes, becauſe they judge not, and ſo die not according to faith, they judge according to ſenſe, they feeling pain and feeling temptations, and ſeeing grieſly things repreſented to them by Satan, they are affright<g ref="char:EOLhyphen"/>ed and rerrified at them, though they be falſe illuſions, whereas ex<g ref="char:EOLhyphen"/>erciſing faith, and ſo judging according to it, they are carried above, and get the victory over ſenſe and temptation. Let us therefore ſo follow on after wiſedom, that her words may dwell richly in us,
+<pb n="11" facs="tcp:48665:8"/>that her ſpirit may be a ſpirit of faith in us, that we may live in faith, and have a living exerciſe of faith in all conditions, ſo ſhall we alſo dying have our hearts born up by faith, and ſhall be enabled to lay down our tabernacle with peace and joy, as that will leade us, and not with trouble, as ſenſe would carry us, and unbelief affright us, while we judge of God and Chriſt, life and death, ſinne and righte<g ref="char:EOLhyphen"/>ouſneſſe according to faith, and not according to carnall ſenſe and philoſophicall ſpeculations, we ſhall be from ſeeing death when we die, yea, ſhall finde and feel life in the ſhadow of death, according to that <hi>Joh.</hi> 5.24. <hi>He that heareth my Word, and believeth on him that ſent me hath eternall life,</hi> and ſhall not come into judgement, but is paſſed from death to life, and that <hi>Joh.</hi> 11.25, 26. <hi>I am the reſurre<g ref="char:EOLhyphen"/>ction and the life, he that believeth in me, though he were dead, yet ſhall he live, and he that liveth and believeth, ſhall never die.</hi>
+               </p>
+            </div>
+            <div type="part">
+               <head>Thoſe all died in faith.</head>
+               <p>Faith? Ay, but what is faith, and how may a man come by it?
+<note place="margin">
+                     <hi>Object.</hi>
+                  </note>
+               </p>
+               <p>The Apoſtle in this Chapter <hi>Heb.</hi> 11.1. tels us what it is:
+<note place="margin">
+                     <hi>Anſw.</hi>
+                  </note> It's <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>(or as the paraphraſe hath it <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>) <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>
+                  <hi>the argument and demonstration of things not ſeen,</hi> of inviſible things that are not the objects of ſenſe, but that are declared in the word of God: ſuch is the vertue and power of faith, that it gives as great a certainty of thoſe unſeen things to the ſoul or minde, as can be made over by any ſcientificall demonſtration, for ſo <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>ſigni<g ref="char:EOLhyphen"/>fies, a demonſtration to the minde, not a preſentation to the bodily eſſence, as the Greek Scholiaſt upon it, <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>&amp;c. Faith preſents inviſible things as viſible: how? to the minde and hope: which hope alſo ſpringeth from it, and is upheld by it, as it there follows, it's <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> too, <hi>the baſis or ſubſiſtence of things hoped for,</hi> It ſo preſents divine things to the minde, that it alſo draws in the ſoul to truſt in God, and hope for good from him, and the good things it hopes for, faith gives bottom to, and enables the ſoul to act towards them, as if they had a reall exiſtence as was before noted.
+<note place="margin">Rom. 10.17.</note> And for the way to come by this faith, the Apoſtle tels us <hi>Fides ex auditu</hi> &amp;c. <hi>Faith is by hear<g ref="char:EOLhyphen"/>ing,</hi> by that means God <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>fi<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ct<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>th it, whence that in <hi>Iſa.</hi> 55.3. <hi>Hear, and your ſouls ſhall live,</hi> 
+                  <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>, but it's not every hearing that produces this faith, but that which i<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> by the word of God, the hearing of the Goſpel or word of faith, that's both mother and nurſe of it, from that it ſprings, and by that it's nouriſhed: in liſtening to that God puts forth his mighty arm, and enables the ſoul to believe, as ſome<g ref="char:EOLhyphen"/>times
+<pb n="12" facs="tcp:48665:9"/>he did to the Iſraelites by the brazen Serpent, and to <hi>Naaman</hi> in the waters of <hi>Jordan</hi> to heal them, <hi>He that hears my Words and believes on him that ſent me,</hi> &amp;c. <hi>Joh.</hi> 5.24. Hearing the Word is the way to believe in God.</p>
+               <p>Firſt, God declareth the truth, which is truth when declared by him, not made truth by our believing: this truth heard perſwades the ſoul by the divine power and ſpirit, which is therewith miniſtred, to cloſe with what it hears, and cloſing with what it hears, the ſame power and ſpirit doth therethrough further (while therein are o<g ref="char:EOLhyphen"/>pened excellent things, as the hatred and juſtice of God againſt ſin, and yet his love, mercy and good will in Chriſt toward the ſinfull ſoul<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 
+                  <hi>&amp;c.</hi>) p<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſwade the ſoul to embrace and cloſe with Chriſt him<g ref="char:EOLhyphen"/>ſelf, of whom the truth witneſſeth, and unto whom as its proper body and fountain (as God is in him and he is God) it leadeth, and ſo the ſoul is by th<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Word heard, and through the divine power of God therein, brought unto Chriſt, and in and through Chriſt un<g ref="char:EOLhyphen"/>to God, by the beam to the body of the Sun, and in that to all that fountain, fullneſſe of glorious light that ſils that body, and makes it ſo glorious.</p>
+               <p>But indeed the nature of this ſaith in which theſe holy men of God died, and which is of ſo glorious uſe in life and death, is in the text it ſelf by <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>cts and operations notably laid forth and deſcri<g ref="char:EOLhyphen"/>bed. I ſhall brieſly and but brieſly touch upon them: <hi>Theſe all died in faith not having received the promiſes,</hi> faith ſtands not in mens ha<g ref="char:EOLhyphen"/>ving in poſſeſſion o<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> actuall fruition the things promiſed, for then faith and ſenſe ſhould be confounded, but 1. they ſee them <hi>(the pro<g ref="char:EOLhyphen"/>miſes)</hi> afar off,</p>
+               <p>That's the firſt act of this faith, though alone of it ſelf it is not faith, for it's ſaid of ſome <hi>they have ſeen and hated</hi> Joh. 15.24. yet this is I ſay, the firſt act of this faith, or the firſt act tending to this faith, through which the following acts are alſo generated where this is rightly ſeated, and the abiding in this and of this, is that in and through which the other acts are carried on too and perpetuated: this act being the firſt product of the Word heard, and that which moſt immediatly ſpringeth from it: for while God ſpeaketh, he preſents in his ſpeakings truth to the ſoul, and the ſoul hearing and receiving in the word ſpoken, findes therein and therewith a divine power illuminating and giving light to it, and power of diſcerning that light, as if the light of the Sun coming to a blinde man in a dungeon, ſhould both preſent light to him, and in the ſame moment give him a faculty and power of ſeeing: thus in <hi>Pſa.</hi> 119.130. <hi>the
+<pb n="13" facs="tcp:48665:9"/>entrance of thy word giveth light, and giveth underſtanding to the ſim<g ref="char:EOLhyphen"/>ple;</hi> the ſoul receiving or looking upon divine word ſees things ſet be<g ref="char:EOLhyphen"/>fore it, that it never ſo ſaw before, as his own vileneſſe and filthineſſe, and Gods goodneſſe and compaſſions, and the great and glorious things in his way (his Son) to be met with and enjoied. But theſe are ſaid to have ſeen them afarre of, <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>.
+<note place="margin">Iſa. 46.10.</note> God ſhews the end from the beginning: things to be done never ſo long time hence, yet being re<g ref="char:EOLhyphen"/>vealed in the word and there preſented, are by faith ſeen; indeed men not hearkning to the word, miſſe of much light and knowledge there<g ref="char:EOLhyphen"/>in held forth, and ſee not many things which in wiſt viewing or dili<g ref="char:EOLhyphen"/>gent attention they might come to ſee, things afar off, the things pro<g ref="char:EOLhyphen"/>miſed, which were not of a long time to be performed, whence neither had they ſo full and clear a ſight of them as thoſe that ſee them in near<g ref="char:EOLhyphen"/>er times, as things ſeen afar off at a great diſtance are not ſo fully and clearly ſeen, as when they are ſeen nearer hand. Now they are brought near to us, theſe being the laſt times, yea, ſome of theſe promiſes that they ſaw through the word at a diſtance are already in part perform<g ref="char:EOLhyphen"/>ed, and are become Goſpel declarations to us, as the coming and re<g ref="char:EOLhyphen"/>ſurrection of Chriſt, of the former whereof <hi>Mary</hi> could in her time ſay (much more may we now) <hi>He hath holpen his ſervant Iſrael in remem<g ref="char:EOLhyphen"/>brance of his mercy as he ſpake to our forefathers, to Abraham and to his ſeed for ever,</hi> Luk. 1.25. And the Apoſtle <hi>Paul</hi> declares the latter as another ſtep of the performance of theſe promiſes, ſaying, <hi>we declare unto you good tidings, how that the promiſe that was made unto the fa<g ref="char:EOLhyphen"/>thers God hath fullfilled the ſame unto us their children, in that he hath raiſed up Jeſus from the dead.</hi> We believing ſee them by faith as things already done, and they are the grounds of our believing in him for thoſe further things contained in thoſe promiſes, which are yet unfull<g ref="char:EOLhyphen"/>filled, and which we are to expect the performance of in his ſeaſon, but then there muſt be with this ſeeing a further act, even that that follows in the next place of them, <hi>viz.</hi>
+               </p>
+               <p n="2">2. They were perſwaded.</p>
+               <p>That's the ſecond act in this divine faith, it's not a bare ſpeculation of truths in the propoſition without a perſwaſion, that they are truths, and worthy to be heeded and embraced by them, the diſcerning of divine truths as propounded is a means to perſwaſion, and ſo to be<g ref="char:EOLhyphen"/>lieving (<hi>Joh.</hi> 6.40. <hi>Every one that ſees the Son, and believes on him,</hi> &amp;c,) and is it ſelf augmented, and flows in more upon the ſoul through be<g ref="char:EOLhyphen"/>lieving, but is not it ſelf faith without perſwaſion, nor can it be ſo cal<g ref="char:EOLhyphen"/>led: theſe worthies in their faith ſaw and were perſwaded they were not <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> or <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> Children of unperſwaſibleneſs, diſobedient
+<pb n="14" facs="tcp:48665:10"/>to the heavenly viſion, like men that ſee things at a diſtance preſented to them, but yet cannot be perſwaded they are indeed the things they ſeem to be, becauſe they know not how or which way ſuch things ſhould come there, and they muſt have their reaſon ſatisfied in that, or elſe they will think it's an illuſion and ſtrong miſapprehenſion in their ſenſes. No it is not ſo with faith, though they ſaw but afarre off, yet they were perſwaded of the truth and certainty of what was ſhewed them, and of what in that ſhewing they did ſee: In which they differed from many that now though they have the Goſpel more nearly, clearly and plainly preſenting the things of God to them, yet they are not perſwa<g ref="char:EOLhyphen"/>ded of them, they ſee ſuch things affirmed, but cannot think they are ſo as they ſeem to be affirmed of; they exalt their reaſon, and cannot deny themſelves, and be willing to become fools to follow the word of God, and to come to its ſayings, they have many queſtions nauſe<g ref="char:EOLhyphen"/>ouſly lie upon their ſtomacks through the exerciſe of their fleſhly wiſe<g ref="char:EOLhyphen"/>dom, of which they are ſick, and in which they muſt be fore-ſatisfied, or elſe they cannot be perſwaded: like <hi>Nicodemus,</hi> How can this and that be? <hi>Can a man enter into his mothers womb again, and be born a ſecond time?</hi> or like old <hi>Zachary, how can perſons ſo stricken in years have the pr<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>miſe of a childe made good unto them?</hi> or thoſe in the wilder<g ref="char:EOLhyphen"/>neſſe, <hi>Can God prepare a table?</hi> &amp;c. But ſo it is not with faith, it ſaies not,
+<note place="margin">Rom. 10.6, 7.</note> 
+                  <hi>Who ſhall aſcend up into heaven to fetch down Chriſt?</hi> or <hi>Who ſhall deſcend into the deep to bring him up?</hi> it raiſes not up queſtions, it ſtum<g ref="char:EOLhyphen"/>bles not through its reaſonings, but is perſwaded through the conſide<g ref="char:EOLhyphen"/>ration of Gods authority, <hi>They were perſwaded,</hi> and yet it reſts not there neither, but as it follows of theſe holy ones</p>
+               <p n="3">3. They embraced them.</p>
+               <p>
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> and ſaluting or kiſſing them: ay this is the comple<g ref="char:EOLhyphen"/>tive, intr<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nſecall act of faith, the faith which the juſt do live by. It's not a bare ſight and perſwaſion, but ſuch as in which the heart liketh, and cloſeth with the things preſented, and whereof they are perſwaded. It's poſſible a man may ſee and be perſwaded of truth, and yet not like but hate it, not ſalute and embrace it, but turn his back upon it and re<g ref="char:EOLhyphen"/>ject it:
+<note place="margin">Mat. 21.38.</note> ſome were perſwaded <hi>that Chriſt was the heir,</hi> yet were ſo far from embracing him, that they added, <hi>Come, let us kill him:</hi> even ſo ma<g ref="char:EOLhyphen"/>ny a man when he ſees a truth which reproves his way, and is not for his turn, his luſt, purpoſe or deſign, though he ſee and be perſwaded it's true, yet his heart loves it not, but boggles againſt it, he cannot like to entertain it, the young man that came to Chriſt <hi>Mat.</hi> 19.22, could not nor did object againſt Chriſts doctrine, nay, it ſeems he was in ſome meaſure perſwaded it was true, why elſe ſhould it have troubled him,
+<pb n="15" facs="tcp:48665:10"/>and made him ſad? had he given no credit to it, it would never have come ſo near his heart, he would lightlier have got rid of it, but yet he could not embrace or welcome it, though there was a precious pro<g ref="char:EOLhyphen"/>miſe ſet before him, yet he could not like it upon thoſe terms on which it was propounded: it was not his caſe alone, many could like to have the happineſſe promiſed in the Goſpel, and are perſwaded that upon ſuch and ſuch terms they might and ſhould have it, who yet not liking thoſe terms do not embrace it, like <hi>Boaz</hi> his kinſman,
+<note place="margin">Ruth 4 4, 6.</note> he could like to have redeemed <hi>Naomies</hi> lands, till he came to ſee the terms, that it would ſpoil his own inheritance, and upon theſe terms he would none of it: many would own and embrace truth, were it not that it would ſpoil them of their ſelf-intereſts, if it leade them not to ſuch ſelf-deni<g ref="char:EOLhyphen"/>all. But this divine faith here ſpoken of carries the heart above thoſe ſtumbles, and makes it with chearfullneſſe and joy to welcome the glo<g ref="char:EOLhyphen"/>rious grace and promiſed portion that truth preſents it upon its own terms: It ſo acts the will and affections too, that they like what the ſoul ſees in truth, and is perſwaded of, and take it home, and give it the beſt entertainment they poſſibly can, it unites the ſoul unto the promiſe, and the promiſe findes a ſubſiſtence in the ſoul: It's as a march that God hath propounded, and the ſoul accepts it upon Gods terms, owns, loves, ſides with and rejoices in it: upon which follows,</p>
+               <p n="4">4. They confeſſed themſelves ſtrangers and pilgrims in the earth, thereby declaring plainly that they ſeek a countrey.</p>
+               <p>Here we have faith compleated inwardly in its own eſſence, further perfecting it ſelf in its fruit and operation, as the tree may be ſaid to be perfected in its bearing fruit: Here's an inward hope and expectation of the thing promiſed, and in that a ſeeking after it, <hi>a countrey,</hi> ano<g ref="char:EOLhyphen"/>ther and a better ſtate, <hi>a new heaven and a new earth,</hi>
+                  <note place="margin">Act. 3.21.</note> that's the ulti<g ref="char:EOLhyphen"/>mate thing promiſed, <hi>the ſtate of reſtauration of all things,</hi> and therein the full enjoyment of God: now through faith (that is through the word of promiſe, ſeen,
+<note place="margin">1 Pet. 1.3.</note> perſwaded of and embraced) they are <hi>begot to a living hope,</hi> and that puts the ſoul upon preſſing after the glory pro<g ref="char:EOLhyphen"/>miſed, and purges the ſoul from the earthly affections, that fill the hearts of thoſe that have not ſo beleeved: all they had before were now nothing to what they ſee and were perſwaded of and embraced. Theſe promiſes or things promiſed are ſo welcome to their ſouls though yet they poſſeſſe them not, but only have the faith of them, that earth and world and all things here are not to be compared with them, they reckon themſelves not at home till they enjoy them, their mindes are after them, and off from theſe things that they lived upon, before theſe better things were revealed to them: Here's mortificati<g ref="char:EOLhyphen"/>on
+<pb n="16" facs="tcp:48665:11"/>on effected both in minde and converſation, the affections removed from the things below, and ſet upon theſe things that are above, taken off from preſent enjoyment and advantages for enjoying the world, and ſet upon the promiſed future happineſſe, the heart is taken and gone after another city and countrey, and that heart-belief and in<g ref="char:EOLhyphen"/>ward affection, produces mouth and practice-confeſſion to ſalvation, they confeſſed themſelves ſtrangers and pilgrims in this earth, they finde not herein a reſting place, they have a better home, and that they ſeek after, I know others may utter ſuch like words upon other principles, as men ſeeing the brevity and uncertainty of mans life, may think they have here no ſtaying continuance, as <hi>Cicero</hi> the heathen Philoſopher ſpeaks ſomewhat to that purpoſe, <hi>I go</hi> (ſaith he) <hi>out of this life,
+<note place="margin">
+                        <hi>Ex hâc vitâ ita diſcedo tan<g ref="char:EOLhyphen"/>quam ex hoſpi<g ref="char:EOLhyphen"/>tio, non tan<g ref="char:EOLhyphen"/>quam ex domo, commorandi e<g ref="char:EOLhyphen"/>nim diverſori<g ref="char:EOLhyphen"/>um natur<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                              <desc>•</desc>
+                           </gap> no<g ref="char:EOLhyphen"/>his, non habi. tandi dedit.</hi>
+                     </note> as if I went out of an I<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>e, not out of my dwelling-houſe, for na<g ref="char:EOLhyphen"/>ture hath given us here a place to bait in only, not to dwell in.</hi> Thus a mo<g ref="char:EOLhyphen"/>rall man may be led to ſay by the ſenſe and knowledge he hath of this lifes uncertainty and paſſing ſwiftneſſe, but their confeſſion proceeded from their faith in an earneſt ſeeking after Gods heavenly promiſes: the belief of Gods word, and the complacency they had therein in the expectation of the things ſet before them, made them ſo to reckon themſelves as ſtrangers and pilgrims in the earth, and therefore not to love or covet after the enjoiments of the earth, not to minde to return back into their own countrey, whence by faith they had departed to follow after God: all ſee they cannot here alwaies continue, but all know not that they have a better countrey: and therefore all that ſo ſee are not mortified in their mindes to the things whoſe vanity they ſee: all reckon not (nor ſo walk as if they reckoned) themſelves ſtran<g ref="char:EOLhyphen"/>gers and pilgrims in the earth ſeeking another countrey.</p>
+               <p>Two things we may principally note from what hath been ſaid he to about the nature of faith and efficacy thereof.</p>
+               <p n="1">1. <note place="margin">
+                     <hi>Note</hi> 3.</note> 
+                  <hi>That that divine faith that will indeed do us good in death stands in the word of God, the word of the promiſe or Gospel, cloſes with and ſprings from that, ſees, is perſwaded of and embraces the teſtimony of God held forth in that.</hi>
+               </p>
+               <p n="2">2. <note place="margin">
+                     <hi>Note</hi> 4.</note> 
+                  <hi>That that divine faith is exceeding operative and working inwardly and outwardly, embracing the heavenly things propounded, it leads to look for, expect and ſeek them, and to deſpiſe theſe earthly things, in compariſon of them.
+<note place="margin">Tit. 2 11, 12.</note> It leads to deny ungodlineſſe and worldly luſts, and to live ſober<g ref="char:EOLhyphen"/>ly, righteouſly and godly in this preſent world, looking for the bleſſed hope,</hi> the promiſed inheritance at the appearance of Chriſt Jeſus. It's nei<g ref="char:EOLhyphen"/>ther a groundleſs humane conception and preſumption, nor an empty, barren and idle ſpeculation. It's ſuch an heart-cloſing with the word
+<pb n="17" facs="tcp:48665:11"/>as in which the word is vigorous in the heart, and brings forth fruit unto eternal life: this in both parts we have ſeen already, in the opening of the text, they ſaw them afar off and were perſwaded, and embracing them confeſſed that they were but ſtrangers and pilgrims in the earth.</p>
+               <p>Would we have faith, or would we that have any meaſure of it grow,
+<note place="margin">
+                     <hi>Applic.</hi>
+                  </note> therein? let us take heed to the word, the word of faith, the doctrine of the Goſpel, and let us be ſwift to hear, ſlow to ſpeak, or make con<g ref="char:EOLhyphen"/>feſſions or proteſtations of our faith further then that heard effecteth them in us: be more ready to hear what God ſaies to us, then to boaſt our ſelves of what is in us, or to offer the ſacrifice of fools,
+<note place="margin">Eccl. 5.1<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>.</note> ſuch as the power of the truths we hear ſpring not up in us: much more be we ſlow to ſpeak againſt the Goſpel of God, becauſe we comprehend it not with our reaſon, or to be wroth and offended thereat becauſe it comes to lay us low, and pull down our proud ſwelling conceptions. Hearken diligently, and your ſouls ſhall live.
+<note place="margin">Iſa. 55 3.</note>
+               </p>
+               <p>And ſo, would we be means to bring others to faith? preach we and hold we forth the word to them, not our dictates and placitas, but Gods word, the Goſpel as atteſted in the Scripture, that men may be<g ref="char:EOLhyphen"/>lieve as the Scripture hath ſaid, for to ſuch faith is the promiſe made, <hi>Joh.</hi> 9.38. <hi>He that believeth on me, as the Scripture hath ſaid, out of his belly ſhall ſlow rivers of living water,</hi> and for ſuch believers Chriſt hath praied, <hi>Joh.</hi> 17.20. <hi>for them that ſhall believe through their word,</hi>
+                  <note place="margin">Joh. 17.10. Gal. 4.28.</note> the word given by Chriſt to his Apoſtles whom he ſent out into the world: preach the word of promiſe, for of that it is that the heirs are born that ſhall enjoy the inheritance, the word of the death and of the re<g ref="char:EOLhyphen"/>ſurrection of Jeſus Chriſt for men, which is part of the promiſe made to <hi>Abraham,</hi> as was ſhewed before, that's the foundation doctrine: upon this foundation build them, and then exhort them to walk wor<g ref="char:EOLhyphen"/>thy thereof in all well-pleaſing. There's many a mans faith detected to be vain by theſe two things; by its want of a right bottom, and by its want of right fruits and operations. 1. Thou ſaiſt thou believeſt and truſteſt in God, but according to what doſt thou believe? it's with ma<g ref="char:EOLhyphen"/>ny a man becauſe of and according to their works, diligence, endea<g ref="char:EOLhyphen"/>vours, ſenſe, feelings, not according as it is ſaid in the word to us (as it's ſaid of <hi>Abraham, he believed according to what was spoken to him, So ſhall thy ſeed be,</hi> Ro. 4.17.) Now as that's not right faith that carries not on the ſoul after God, and cauſes it not to ſeek the countrey pro<g ref="char:EOLhyphen"/>miſed, ſo neither is that right faith that ſprings from mans own ſtrifts and endeavours after the love of God, as that's not a good faith that's without works, ſo neither is that good that's bottomed upon thy works. It's the character of true beleevers in <hi>Act.</hi> 18.27. <hi>that they
+<pb n="18" facs="tcp:48665:12"/>beleeved through grace,</hi> not through works, I believe ſaies one, that Chriſt died for me, and is a Mediatour for me. Well but how cameſt thou by that faith? whereupon is it grounded? why they will ſay per<g ref="char:EOLhyphen"/>haps from the word: Well, let us ſee how the word evidenced it to thee? why, I found ſuch and ſuch effects wrought in me, I was convinced of my evil way, and humbled, and mourned, and reformed, and was thus and thus changed, therefore I perceived that I was one of the elect of God, and Chriſt died for me. Oh but now believeſt thou not according to the word but deceiveſt thy ſelf, grounding thy faith of Chriſts medi<g ref="char:EOLhyphen"/>ation upon thy works, or the effects of law and conſcience in thee, <hi>&amp;c.</hi> I fear when thou comeſt to the triall, thy works will be found light and vain. What doſt thou tell me of fruits and effects of faith, evidencing thine election before, and as the ground of thy believing Chriſt a Me<g ref="char:EOLhyphen"/>diatour for thee? No changes or fruits will evidence election, but ſuch ſpring from faith in Chriſt in whom the election is, nor is there any faith rightly in Chriſt as now come, but in his bloud and mediation, <hi>Rom.</hi> 3.25. <hi>by his bloud We have acceſſe to God,</hi> to believe in him, and approach to him, and ſee his love to us: and canſt thou have faith in his bloud before thou knoweſt whether he ſhed any for thee, that thereby thou mighteſt know he ſhed it for thee? faith in the bloud of Chriſt is this, through the knowledge and belief of his bloud ſhed, to be imboldned to approach to and rely on God, and expect good from him as from one that thereby hath teſtified his good will toward thee, and opened a way of acceſſe to himſelf and to his Kingdome for thee, that thou mighteſt come to him, and hope in him for it. It's ſtrange that Chriſts bloud ſhould give thee boldneſſe to rely on God, when thou knoweſt not whether ever it was ſhed for thee, or that thou hadſt any thing to do with it: thou ſayſt it was ſhed for all that believe, and thou believeſt, <hi>&amp;c.</hi> That it was ſhed for all that believe, is not queſtioned, but that very believing is to be in that bloud: Now the doubt is of thy believing in it, before thou feeſt Gods word hold it forth as ſhed for thee, that ſo thou mighteſt know it's ſhed for thee: I ſay that believing of thine was not a right believing in it, that preceded thy belief of it by divine teſtimony to be ſhed for thee: It was ſhed for enemies and ungodly, that being preached to them they might believe in it, as well as for them as believing in it, that they might be ſanctified and ſaved by it. If thou believeſt in it or thinkeſt to have ſalvation by it, becauſe of thy former ſelf-actings to ſorrow and to reformation, then is not this faith right, becauſe not ſpringing from the word, yea, thou invert<g ref="char:EOLhyphen"/>teſt the order of the Apoſtle,
+<note place="margin">Tit. 2.11, 12. &amp; 3.4, 5.</note> he tels us they were ſaved from their fil<g ref="char:EOLhyphen"/>thineſſe and diſobedience, and led to deny ungodlineſſe and worldly
+<pb n="19" facs="tcp:48665:12"/>luſts by the grace, the love and pity of God to man appearing, and thou firſt art led to reform and alter and deny thy luſts, and to believe as thou thinkeſt before thou apprehendeſt his grace, and then draweſt an inference of his grace from thoſe thy works and denials, thou en<g ref="char:EOLhyphen"/>deavoureſt and conceiteſt thy ſelf to work well, and thereupon build<g ref="char:EOLhyphen"/>eſt an opinion that God loved thee, and Chriſt came and died for thee, this faith ſprings from thy works and not from the word, the teſtimo<g ref="char:EOLhyphen"/>ny of God is not believed by thee. Oh but thou wilt ſay, Even all thoſe frames were begotten by the grace of God in thee, elſe thou couldeſt not have had them, and it was in hearing his word that thou waſt led to them. Ay, but what meaneſt thou by grace? the good will of God in Chriſt fore-manifeſted to thee in the word of the Goſpel? No, for that thou ſaweſt not, but fetcheſt in by conſequence upon thy changes: what then? a certain ſecret inſenſible working of power in thy heart to perſwade thee to confeſſe thy ſins, and mend thy actions, and do better then formerly? Now thou ſpeakeſt in the dialect of that Phariſee, <hi>Luk</hi> 18.10, 11. He had ſuch a like conſiderce that he was a righteous, juſtified perſon, and was in ſtate of grace: but how came he by it? he truſted in himſelf, he ſaies not to be made righteous, but that he was now a righteous one, one that ſhould have benefit by the Meſ<g ref="char:EOLhyphen"/>ſias in his coming, and ſhould partake of the promiſes, he fetched the arguments of his confidence from himſelf, and yet what he ſpeaks of as in him he attributes to Gods grace as if he had wrought it in him, God I thank thee that I am not thus and thus, he doth not aſcribe it to himſelf but to God, and it's not likely but he thought God had per<g ref="char:EOLhyphen"/>ſwaded him ſo and ſo to walk by what he had heard of his will in the Scriptures, in the law of God, he thought of a ſecret working of pow<g ref="char:EOLhyphen"/>er in the word, but he never apprehended or believed the grace, that is, the good will of God, as it was preached to <hi>Abraham</hi> in the Go<g ref="char:EOLhyphen"/>ſpel and promiſe, he was <hi>ignorant of Gods righteouſneſſe,</hi>
+                  <note place="margin">1 Cor. 10.13. Gal. 4.23, 24.</note> he was <hi>born of the bond-Woman,</hi> his changes and righteouſneſſe ſprang not from love and grace fore-apprehended, but from the Law enjoyning and adding promiſes to mans obſervation, and therefore this plea would no ſerve him, his confidence was not currant, nor did God accept him. Such is thy profeſſion, thou findeſt it ſaid, <hi>If thou believeſt thou ſhalt be ſaved</hi> which (in it ſelf only conſidered) is but like a legall promiſe, and nothing differs from it, for that ſaies, if thou doſt thus and thus, thou ſhalt live or be ſaved; but herein the Goſpel differs from it, that it laies down a foundation of love demonſtrated from God to a ſinner, in the firſt place to move him, impower and enable him to the thing required of him: ſo doth not the law, but only holds forth a conditio<g ref="char:EOLhyphen"/>nall
+<pb n="20" facs="tcp:48665:13"/>promiſe upon obedience, and while a man ſees or cloſes with no more of the Goſpel, the Goſpel is but a legall doctrine to him, it's not the Goſpel, he ſees not the love declared, the glad tidings of Gods good will to him a ſinner and ungodly in the gift of Jeſus: in the be<g ref="char:EOLhyphen"/>lief of which he ſhould be principled to the thing required: but I ſay thou meeting with ſuch a conditionall promiſe, thou endeavoureſt af<g ref="char:EOLhyphen"/>ter faith, and humility, and fruits, and from thy ſelf-endeavours, chan<g ref="char:EOLhyphen"/>ges and ſelf differings, which thou thinkeſt are notable fruits of faith, thou concludeſt and truſteſt in thy ſelf, that thou art righteous, a believer, a juſtifyed one, and ſo that Chriſt is thy Mediatour, and died for thee, and attributeſt this to God as if thou wert no enemy to grace, but a Preacher of it in oppoſition to free-will, and thus many men do whenas they never yet ſaw or diſcerned what grace is, nor had any o<g ref="char:EOLhyphen"/>ther principle in what they did, but the law, its threats and promiſes, and their own will; whence though they have as ſtrong confidence of their being righteous as the Phariſee had, yet it is but a ſtrong fancy and groundleſſe conception of faith, the bottom of it is a legall cove<g ref="char:EOLhyphen"/>nant, and their own work and endeavour, not the word of the Go<g ref="char:EOLhyphen"/>ſpel, the declaration of grace, they receive not the word that ſhould beget it. I know they ſay they beleeve all the Scriptures, from the be<g ref="char:EOLhyphen"/>ginning of <hi>Geneſis</hi> to the latter end of the <hi>Revelations,</hi> but come to the point, let us examine thee in the teſtimony of God, whereof the Apo<g ref="char:EOLhyphen"/>ſtle <hi>Paul</hi> was made a Preacher, a Crier, or Herauld for the obedience of faith, we finde it 1 <hi>Tim.</hi> 2.4, 5, 6, 7. Doſt thou beleeve this? God wils all men to be ſaved, and come to the knowledge of the truth: and that Chriſt gave himſelf a ranſome for all, <hi>&amp;c.</hi> by and by they crie our, A damnable hereſie, I ſee it there written, but I am not perſwaded it is meant as it was ſpoken, I cannot embrace it: Well, how then? God hath good will to none but an elect number in the world, Chriſt gave himſelf a ranſome for no other. Where readeſt thou that? not ſuch a word in all the Bible: well, but how knoweſt thou then for thy ſelf? thou wilt ſay, God forbid that I ſhould not think that Chriſt died for me: Why ſo, if not for all? yes, I hope ſo (will the very drunkards ſay, though they deny it for all) Every one will flatter himſelf in a good conceit of himſelf, and make his own good conceit the ground of his faith, and ſo the faith proves thereafter, but the moſt generall plea is, I am thus humbled, changed, <hi>&amp;c.</hi> as if he ſhould ſay, God I thank thee I am not as other men are: Now though they ſay, they beleeve for themſelves that that is in it ſelf true, yet, this being not the effect of the word of the Goſpel in them, but a concluſion drawn by themſelves from their own changes or ſelf-flattery, it hath not the nature of di<g ref="char:EOLhyphen"/>vine
+<pb n="21" facs="tcp:48665:13"/>faith in it, but of opinion: and what good works they do or ſeem to do, they are not fruits of the word of God working through faith in them, and ſo not the lively evidences of faith, but things endeavoured after by the power of law and conſcience in them, to annex and pinne them to their faith, or rather to maintain and uphold their own opinion of their having faith. Too many Prea<g ref="char:EOLhyphen"/>chers there are that are in the fault, for building up men in this manner, not preaching the word of Gods grace to them, accord<g ref="char:EOLhyphen"/>ing to the tenour of the Apoſtolicall commiſſion, ſome of whom while they plead for unity, in the mean time depart from the u<g ref="char:EOLhyphen"/>nity of the faith, and will not ſtrive together with us, for that tenour of it once delivered to the Saints,
+<note place="margin">Phil. 1.27. Rom. 16.17.</note> but have made a divi<g ref="char:EOLhyphen"/>ſion beſides and contrary to that wholſome doctrine, whereas all unity ſhould ſtand in verity, and then it will be laſting unity: oh that they would beleeve the word of God, that it may appear that the power and force thereof operates in them, and that their faith and works ſpring therefrom, and we are ready to embrace unity with them: yea, in the mean time we will love them and be at unity with them in what they had according to the word, though we muſt reprove them, when they diſclaim, diſſent, and draw people from the credit of the word, as if our reproving their ſtrayings from that,
+<note place="margin">
+                     <hi>Maledi<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap> a fit illa charitas propter qua<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap> periclitatur vel amittitur veri<g ref="char:EOLhyphen"/>tas.</hi> Luth.</note> or holding forth the word as we finde and beleeve it faithfully to the people, make or occaſion diviſion, we cannot help that, we muſt not lay down the truth of God to gain peace with men. Let men lay aſide oppoſition then to the Goſpel-declaration, and if they hold it not forth, yet deny it not, diſclaim not againſt it, oppoſe not evident Scripture-ſayings, and we ſhall readily endeavour to be at one with them. Many deal with men as <hi>Pharaohs</hi> officers with the poor Iſraelites, they took away the ſtraw, and yet required the tale of brick, ſo men now preſſe men upon faith and repentance, and yet in the mean while withhold from them the doctrine of Gods love and goodneſſe: to what purpoſe is it to tell men of the priviledges of bele<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>vers, and withhold from them, or render doubtfull to them thoſe mo<g ref="char:EOLhyphen"/>tives of Gods good will toward them and Chriſts death for them. which God in the Goſpel holds forth to them to bring them to believe? to what purpoſe talk ye to men out of Chriſt, and un<g ref="char:EOLhyphen"/>called, of a ſecret election that is only in Chriſt, and no where elſe to be met with nor enjoied, ſuppreſſing the doctrine of the death of Chriſt for them, that ſhould draw them unto Chriſt, and tell them ſtories of an eternall reprobation, without reſpect to their
+<pb n="22" facs="tcp:48665:14"/>rejecting Gods grace: yea, with an affirmation that there was no ſuch grace for the greater part of mankinde to be received or re<g ref="char:EOLhyphen"/>jected by them, as is affirmed in the Goſpel for them: ſo obſtruct<g ref="char:EOLhyphen"/>ing the way of their apprehending that grace that ſhould leade them to repentance, or to put them upon a form of repentance, that hath no power in it, that they might preſume themſelves elect (for better it cannot be) while the doctrine of Gods grace and goodneſſe is not held forth and magnified toward them, which leadeth to a true and living repentance and faith of Gods elect.</p>
+               <p n="2">2. Again, how many talk of faith, and yet ſhew no fruits of faith? <hi>Qui Curios ſimulant &amp; Bacchanalia vivuxt,</hi> call themſelves Chriſti<g ref="char:EOLhyphen"/>ans but neither have the anointing, nor do the works of Chriſtia<g ref="char:EOLhyphen"/>nity, that profeſſe the Goſpel, yet reſt in the letter or ſhell of it, and look not into it to behold the glorious grace diſcovered in the Goſpel, nor embrace the reproofs of ſelf and fleſh, fleſhly wiſedom, ſtrength, righteouſneſſe and affections that come along to them in and with the Goſpel, that talk of grace, but receive it in vain, and yeeld not up the inmoſt of their hearts to grace, welcome it not in its teachings to deny ungodlineſſe and worldly luſt, and to live ſoberly, righteouſly and godly in this preſent world, receive not the love of the truth to be ſaved by it from Satans temptations, and their own corruptions, thou ſaiſt thou believeſt and hopeſt to have heaven and happineſſe, but yet thou art a drun<g ref="char:EOLhyphen"/>kard, a whoremaſter, a blaſphemer, covetous, thy works proclaim thee to be a lyar, ſuch faith as conſiſts in opinion, and ſaying thou believeſt, and yet hath no power in thee to break thee off from va<g ref="char:EOLhyphen"/>nities, will never ſave thee from deſtruction. It's true, Saints have had their failings, but they have been but failings, and they have been ſaved out of them, they have not lain and wallowed in their ſin, and yet ſaid, tuſh, theſe are but failings, their failings and fal<g ref="char:EOLhyphen"/>lings through temptation can be no plea for thee, that never yet aroſe from ſin, and that liveſt and ſporteſt thy ſelf in thy ſin. O deceive not thy ſelf with a vain conception, to think the outward profeſſion of a Chriſtian will ſave thee, when nothing of his divine power and ſpirit dwels within thee, turn not the grace of God into laſciviouſneſſe, backſlide not from the eſcapes you have had from pollutions through the knowledge of Chriſt to be intangled again with your corruptions, and yet flatter up your ſelves with the Saints failings, and ſay, ye may be true believers and reall Saints for all this: thou ſaieſt thou ſeekeſt a countrey too, an heavenly city, and yet thy care is altogether for, and thy love eager to this
+<pb n="23" facs="tcp:48665:14"/>countrey, how to live bravely, and fare deliciouſly, uphold thy name and reputation, with men, though by vanity and iniquity, miſſe no advantages of graſping in the world to thy ſelf, of ſatisfying thy affections, and enjoying thy vain pleaſures, <hi>&amp;c.</hi> ſure theſe are not the works of faith, thou walkeſt not as the good old Patriarchs who counted themſelves ſtrangers and pilgrims in the earth, and regarded not to return to their own countrey, which they came out of at Gods commandment; as the former ſort of men deny the word of faith, and diſcover their defect of faith by oppoſition to the word, ſo theſe by their works declare the vanity of their words: neither of theſe faiths, faith upon works and not ground<g ref="char:EOLhyphen"/>ed on and ſpringing from the word, nor faith (or rather a ſaying a man hath faith) without works (inward operations and out<g ref="char:EOLhyphen"/>ward teſtimonies through the power of the word feeding it) will ſuffice to make a man juſt, or cauſe him to live, nor will either of them be ſufficient for dying to keep a man that he ſee not death. But there's one thing more yet, <hi>they received not the promiſes, though they beleeved and ſaw them afar off:</hi> they died in faith, but yet enjoy<g ref="char:EOLhyphen"/>ed them not: how may we underſtand that, and what ſhall we note from it? The promiſes metonymically for the things promiſed, which are either for this life or the life that is to come; for this life, ſuch as theſe to be a ſhield to them, to protect them, pro<g ref="char:EOLhyphen"/>vide for them, give them children, <hi>&amp;c.</hi> for the life to come, ſuch as the countrey or city that hath foundations, the full enjoyment of himſelf and his glory: and as the way to that, the Meſſias to be born of their ſeed, to die and riſe, <hi>&amp;c.</hi> as alſo to bleſſe all na<g ref="char:EOLhyphen"/>tions in him.</p>
+               <p>Again, the word <hi>[promiſe]</hi> ſometimes in Scripture ſignifies the word of promiſe, or the promiſe it ſelf made in words to us, and by theſe diſtinctions and conſiderations we may reſolve a doubt, for whereas it's ſaid here, <hi>theſe all died in faith, not having received the promiſes,</hi> it's ſaid, as we reade it in <hi>ver.</hi> 17. that <hi>Abraham</hi> had received the promiſe, <hi>He that had received the promiſes offered up his only begotten Son,</hi> and ſo <hi>chap.</hi> 6.15. <hi>after he had patiently en<g ref="char:EOLhyphen"/>dured he obtained the promiſe.</hi> The ſolution, that the word of a promiſe he had received from God, God made his promiſe with and to him, and that promiſe as a thing made in word, he had re<g ref="char:EOLhyphen"/>ceived it, he heard it and beleeved it, but he had not received the things ſpoken of in that promiſe, or in thoſe promiſes, as the word promiſes in the text ſignifies the things promiſed.</p>
+               <p n="2">2. He did before he died obtain and receive the promiſe in ſome
+<pb n="24" facs="tcp:48665:15"/>things but not in all, the promiſes for this life of having God a ſhield to him to protect him and be his God, and own him and give him a Sonne, theſe he had obtained and received before the died, yea, before he offered up his ſon <hi>Iſaac,</hi> but not all the pro<g ref="char:EOLhyphen"/>miſes, nor the main things promiſed, as neither the land of <hi>Ca<g ref="char:EOLhyphen"/>naan,</hi> nor the multiplying his ſeed as the ſtars of heaven, nor the Meſſias coming and bleſſing all nations, nor (which is the main, the full thing aimed at) the heavenly countrey or king<g ref="char:EOLhyphen"/>dome, the enjoyment of God and Chriſt in glory with his ſeed, and yet theſe they were heirs of, theſe fell to them by lot from God, <hi>Heb.</hi> 6.12. yea, theſe they received <hi>in ſemine,</hi> in <hi>Iſaac,</hi> and <hi>Iſaac</hi> in <hi>Iacob,</hi> &amp;c. they had them <hi>in pignore,</hi> but not <hi>in plenitu<g ref="char:EOLhyphen"/>dine,</hi> in the firſt fruits or pledge, but not in the full enjoyment, <hi>They all died in faith not having received the promiſes,</hi> the greateſt part, the glory and the inheritance promiſed they received not, and yet though they had them not till their death, yet they left not off believing and hoping for them, nay, in their very death they held faſt that faith and hope of them, and that upheld them in death, they knew themſelves heirs of them, and judged God faith<g ref="char:EOLhyphen"/>full not to deprive them. But how could that be, ſeeing now they died without them? Sure then they looked for another day and time in which they ſhould enjoy them, and in which we alſo that now believe ſhould enjoy them with them, as is ſaid, <hi>ver.</hi> 39, 40. <hi>Theſe all being Wi<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>neſſed of by faith, or having received a good re<g ref="char:EOLhyphen"/>port or testimony by ſaith, received not the promiſes, God having pro<g ref="char:EOLhyphen"/>vided ſome better thing for us, that they without us ſhould not be made perfect.</hi> God hath provided another time and day, in which they and we together ſhall receive and enjoy them: M<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nde we here then a little: theſe dying beleeved ſtill the receit of the promiſes, though even at the time of their death they had not received them: how did they then believe, wrong or right? was the thing they belie<g ref="char:EOLhyphen"/>ved true or falſe? Surely their faith was good, for the holy Ghoſt here commends it, and God therefore vouchſafed to be called their God, having prepared a city for them, <hi>verſ.</hi> 16. and if ſo, then ſurely they muſt yet have the promiſes performed to them though now dead. What ſhall we ſay then? Verily we muſt needs hence further note,</p>
+               <p>
+                  <hi>That there ſhall be a reſurrection from the dead,
+<note place="margin">
+                        <hi>Note</hi> 5.</note> death ſhall not fru<g ref="char:EOLhyphen"/>ſtrate the promiſes of God, and make void their faith.</hi>
+               </p>
+               <p>There ſhall be a time when they ſhall be brought out of the power of death and grave, and then ſhall receive the promiſes
+<pb n="25" facs="tcp:48665:15"/>that they died ſhort of: then ſhall the word of God be perform<g ref="char:EOLhyphen"/>ed to them: and indeed here was the triumph of their faith: that though God kill them and take their lives from them, and they never ſee the fulfilling of the prime things promiſed, yet they be<g ref="char:EOLhyphen"/>leeved that they ſhould receive them: death it ſelf, wherein accor<g ref="char:EOLhyphen"/>ding to ſenſe, there was an end put to them, and all further hope and expectation, could not make their faith to fail them, <hi>for they beleeve in God that raiſed the dead, and calleth things that are not as if they were,</hi> Rom. 4 17. and ſo above <hi>hope beleeved in hope, ac<g ref="char:EOLhyphen"/>cording</hi> (not to ſenſe, but) <hi>to what was ſpoken</hi> of God, <hi>ſo ſhall thy ſeed be.</hi> O the power and vertue of divine faith, ſupported by the power of God in the belief of the reſurrection from the dead! Surely if they believed not in vain, as without doubt they did not, then it undeniably follows that they ſhall have (and ſo that there is) a day of Reſurrection, when the promiſed countrey and glory ſhall be made good unto them. Verily if this doctrine were not true, our faith were vain, and the Goſpel preaching with its pro<g ref="char:EOLhyphen"/>miſes vain, we could have no ground for faith in death, but faith and hope and all muſt die with us: but now they died all in faith though they had not yet received the promiſes: verily there ſhall be a reward for the righteous, for all their faith and pati<g ref="char:EOLhyphen"/>ence: verily there ſhall then be a reſurrection of them that they may be rewarded: the time of the <hi>reſurrection of the juſt</hi> is the time of their <hi>remuneration,</hi> as in <hi>Luk.</hi> 14.14. <hi>Thou ſhalt be rewar<g ref="char:EOLhyphen"/>ded in the reſurrection of the just:</hi> deny the <hi>reſurrection</hi> of the juſt, and thou takeſt away the hope of their <hi>reward,</hi> and thou makeſt them of all men moſt miſerable, becauſe here they have a time of deeper ſufferings and ſorrowings then others, and thou telleſt them that they muſt never riſe more to receive a reward for them, here they die, and have not received the promiſes, and if death ſwallow them up, and they never riſe, they muſt never re<g ref="char:EOLhyphen"/>ceive them: Look to this, you that deny the reſurrection, I know your evaſion, you ſay they have it already, they are in Chriſt, and riſen with him, and he is the reſurrection and the life, and ſo they have their reward: but hearken thou vain man, though they be ri<g ref="char:EOLhyphen"/>ſen with Chriſt in their ſpirits, riſen from earth to heaven, yet this is not all their reſurrection, nor have they herein their reward, their full reward: for thus <hi>Abraham</hi> was raiſed in his ſpirit to look after the heavenly countrey, even before he died (as they that are raiſed with Chriſt in their ſpirits are exhorted to ſeek the things above, <hi>Col.</hi> 3.1, 2.) but yet even after that he died in ſaith,
+<pb n="26" facs="tcp:48665:16"/>and had not received the promiſes, he neither was raiſed above faith to live without any further exerciſe of faith (as ſome vainly prate) nor had he or any of them received all the reward of faith, but they all died in faith not having received the promiſes, and therefore muſt have yet another reſurrection, or a compleat<g ref="char:EOLhyphen"/>ing of that reſurrection in the redemption of their bodies, that they may receive thoſe promiſes, according to that <hi>Rom.</hi> 8.23. <hi>We that have received the firſt-fruits of the spirit, yet wait for the a<g ref="char:EOLhyphen"/>doption, the redemption of our bodies:</hi> for indeed the promiſes are to the man, the whole man: now a man is not a man without his body too,
+<note place="margin">
+                     <hi>Hominem pro<g ref="char:EOLhyphen"/>prte carnem di<g ref="char:EOLhyphen"/>et, qu<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>a vocabu<g ref="char:EOLhyphen"/>lum bominis oc<g ref="char:EOLhyphen"/>cupavit.</hi>
+                  </note> the ſoul is but part of the man (nay as <hi>Tertullian</hi> hath well noted, the body is rather called the man, becauſe it firſt had the denomination of man: <hi>God formed man of the duſt of the earth, and breathed into him the breath of life,</hi> he was called man before the breath of life was breathed into him, <hi>Gen.</hi> 2.7.) therefore the reſurrection is of that alſo, that muſt be raiſed and united to the ſoul, that ſo the man may inherite the promiſe made to him: yea, what is reſurrection, but a raiſing to life that that died? but the ſpirits of juſt men die not with their bodies, they were raiſed up and enlivened before, and live by faith even when the body dies, therefore its the body muſt be raiſed, <hi>He ſhall change our vile body, and make it like his own glorious body,</hi> Phil. 3.21. yea, not the righ<g ref="char:EOLhyphen"/>teous only but the wicked too muſt riſe, <hi>Act,</hi> 24.15. <hi>There ſhall be a reſurrection of the dead, both of the juſt and of the unjuſt.</hi> Heark you <hi>Allegoriarum nimium amantes, nimium amentes,</hi> you that dote on All gories, where will you finde ground of Allegory for this? will ye ſay the unjuſt and wicked too have Chriſt, and are riſen with Chriſt? perhaps you will ſay, they ſhall riſe from ſinne to righ<g ref="char:EOLhyphen"/>teouſneſſe, and ſo into and with Chriſt, but (beſide that this croſſeth the Scripture, all ſhall not ſo riſe) you make that the re<g ref="char:EOLhyphen"/>ſurrection of the juſt, and if that ſhall be the unjuſts reſurrection, then I pray, what is that that's further ſpoken of, of the juſt ſeeing that they have already, and yet ſpeaking in the future tenſe, he ſaith, <hi>they ſhall ariſe?</hi> but what need we many words, when our Saviour is ſo expreſſe in <hi>Joh.</hi> 5, 29. <hi>All that are in their graves ſhall hear the voice of the Son of man, and come forth, they that have done good unto the reſurrection of life, and they that have done evil unto the reſurrection of condemnation:</hi> not from ſinne to righteouſneſſe in this life, but to condemnation for their unrighteouſneſſe act<g ref="char:EOLhyphen"/>ed in this life. But we need not go ſo far from the text, to prove that there ſhall be a reſurrection of the body. Seeing by that
+<pb n="27" facs="tcp:48665:16"/>that here follows <hi>that God is not aſhamed to be called their God.</hi> ver. 16. our Saviour hath to our hands confuted that opinion of the Sadduces, and proved that there ſhall be a reſurrection even of them that are dead in the body: for that was the thing that the Sadduces oppugned, and not the quickning up of mens ſpirits to God, as we may ſee by their way of arguing, <hi>Mar.</hi> 12.18, 27. Then it is at that glorious reſurrection that all things ſhall be made new, when the bodies that are dead ſhall by the power of God be raiſed, new heavens and new earth prepared, and given unto the Saints, in which dwels righteouſneſſe, that is, then ſhall they have and enjoy remainingly the righteouſneſſe of God in the full accompliſhment of all his former promiſes, in the faith of which they died, but had not received.</p>
+               <p>Dear friends, hold faſt this doctrine of the reſurrection,
+<note place="margin">
+                     <hi>Applic.</hi>
+                  </note> for as <hi>Tertullian</hi> well begins his book upon this ſubject, <hi>Fiducia Chriſti<g ref="char:EOLhyphen"/>anorum, reſurrectio mortuorum,</hi> the reſurrection of the dead is the hope and expectation of Chriſtians, there is no doctrine more pro<g ref="char:EOLhyphen"/>perly Chriſtian then it, none more comfortable, none now in greater danger to be let ſlip, theſe being thoſe ſhaking times of the moſt fundamentall doctrines of Chriſtian truth, which the A<g ref="char:EOLhyphen"/>poſtle <hi>Peter</hi> long ſince warned us of, 2 <hi>Pet.</hi> 3.2, 3, 13. <hi>There ſhall</hi> (ſaies he) <hi>come mockers, Walking after their own ungodly lusts, that ſhall mock at the performance of Gods promiſes, in the coming of Chriſt, and reſtitution of all things, ſaying, where is the promiſe of his coming? for ſince the fathers f<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ll aſleep, all things continue in their ſtate.</hi> As if they ſhould ſay, they are like to receive no more then they had before they died: but let not this doctrine be ſha<g ref="char:EOLhyphen"/>ken from you, for what then will follow but a rotall falling off from the faith, a denying of the reſurrection of Chriſt,
+<note place="margin">1 Cor. 11.17, 18.</note> and of the kingdom of Chriſt? yea, then <hi>faith and preaching and all is vain,</hi> yea, then the reins are given to all licentiouſneſſe, <hi>Let us eat and drink, for to morrow we ſhall die,</hi> and when we are dead, there is a ſinall end with us, and that's indeed the iſſue of that wicked<g ref="char:EOLhyphen"/>neſſe, they that ſay, <hi>Where is the promiſe of his coming? Will not fear to walk after their own ungodly lusts:</hi> It's true, one principle upon which they lean in denying it, and way to inſinuate the ſlieghting of it unto others (as <hi>Tertullian</hi> hath long ſince obſer<g ref="char:EOLhyphen"/>ved, and as experience of their words yet teacheth us) is a diſ<g ref="char:EOLhyphen"/>reſpect they ſeem to bear to the fleſh, ſo our ſpirits enjoy God (ſay they) and go up to God, what's matter for this fleſh? it's but duſt, and to duſt let it go, and no matter whether ever it riſe
+<pb n="28" facs="tcp:48665:17"/>or not, but as he alſo well obſerves, <hi>Sunt tamen <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>arnis amiceſſimi, nemo enim tam carnaliter vivit, quam qui reſurrectionem mortuo<g ref="char:EOLhyphen"/>rum negat,</hi> though they ſeem to ſlieght the fleſh, none love better to pleaſe the fleſh, none live more after the fleſh: praiers and ordinance and diſcipline then is nothing with them, to trim up themſelves, and wear, and eat, and drink the beſt, to play and game (and perhaps do worſe things) theſe they will not deny the fleſh, they will pleaſe it what they can here, becauſe they think it ſhall have no pleaſure, or good hereafter. But oh! take heed to the Scriptures, both Phariſees and Sadduces erre in not know<g ref="char:EOLhyphen"/>ing and believing them:
+<note place="margin">Mat. 27.29.</note> 
+                  <hi>ye erre, not knowing the Scriptures, nor the power of God:</hi> they pretend to know them better then others, while they can pervert them more then others: and while they pretend a more ſpirituall underſtanding of them, they contradict the ſpirit of underſtanding ſpeaking in them, and through fraud and ſubtlety ſeduce the ſimple, ſeeming at firſt to ſpeak as they, till they winde them into their ſnares, as <hi>Tertullian</hi> obſerved of them in his times,
+<note place="margin">
+                     <hi>De Reſ. Car.</hi>
+                  </note> they would ſay to the ſimple-hearted, <hi>Vae qui in hâe carne non reſurrexerint,</hi> Wo to them that riſe not in this fleſh, which the ſimple hearted hearing oftentimes were led to judge they meant honeſtly and according to the Scripture only, whenas they meant (ſaies he) <hi>Dum in hâc carne ſunt,</hi> that riſe not while they are in this fleſh, and ſo by one part of truth ſeem<g ref="char:EOLhyphen"/>ingly confeſſed the riſing of our ſpirits here by faith with Chriſt, they would by little and little undermine the faith of the ſimple-hearted, and doctrinate them not to matter, and then to deny the reſurrection of the body, running themſelves and them that liſtened to them into the errour of <hi>Hymenaeus</hi> and <hi>Philetus,</hi> 2 Tim. 2.17. that ſay, <hi>the reſurrection is already paſt,</hi> in whoſe very foot<g ref="char:EOLhyphen"/>ſteps many alſo now walk, not knowing the Scriptures, yea, de<g ref="char:EOLhyphen"/>parting from the Scriptures, and not acknowledging the power of God: thence ſay they, how ſhould the bodies that are long ſince dead, and divers waies diſperſed, and that have endured ſo many tranſmutations be poſſibly raiſed? and how can the world it ſelf contain them? as if they did not believe God Almighty, and that all things are poſſible to him beyond our thought, to whom I might ſay with the Apoſtle <hi>Act.</hi> 26 8. <hi>Why ſhould it be thought a thing incredible with you, that God ſhould raiſe the dead?</hi> But I ſay again, minde we the word of God, and ſo minde and keep it that we may be kept by it in the faith from this dangerous errour of the wicked, dream not with them of all our reſurrection here: no
+<pb n="29" facs="tcp:48665:17"/>coming of Chriſt but what they meet with here, no performance of promiſes but what they have here, all enjoyments and fullneſſe and perfection here: ſure if that was true <hi>Paul</hi> was very low and ignorant to them, when he ſaies <hi>he had finiſhed his courſe,
+<note place="margin">2 Tim. 4 8.</note> and kept the faith,</hi> and yet adds, <hi>henceforth is laid up for me the crown of righ<g ref="char:EOLhyphen"/>teouſneſſe, which God the righteous Judge ſhall give me at that day:</hi> he had done his work, and yet he had not received his reward: it was but <hi>laid up</hi> for him, and laid up to be given him, not in <hi>this</hi> but in <hi>that day,</hi> in another day, the day of Chriſts appearance, ſure then the Apoſtle was out here too, when he ſaid, theſe all died in faith, and yet had not received the promiſes. Nay, the Apoſtle '<hi>Paul</hi> in<g ref="char:EOLhyphen"/>ſtructs us, that we ſhall not one prevent another in the receit of them, 1 <hi>Theſ.</hi> 4.15. <hi>They that live at the coming of Chriſt ſhall not prevent them that are aſleep:</hi> They that now live ſhall not have them till <hi>Abraham, Iſaac</hi> and <hi>Jacob</hi> have them, nor they before we have them, <hi>Heb.</hi> 11.40. the dead in Chriſt ſhall be firſt raiſed at his co<g ref="char:EOLhyphen"/>ming, and the living changed, and both be caught into the air up together to meet him, certainly they ſay falſe then that ſay Chriſt is come to them in his glory, and they are raiſed and have the pro<g ref="char:EOLhyphen"/>miſes, all they look for, or all that any ſhall have, and yet many of their brethren died without them, and are not yet raiſed, and if we will believe them never ſhall be, and many yet are uncalled to them. But beloved, regard we not their ſayings, but know them to be falſe and vain, and look we to Chriſt that died for us and roſe a<g ref="char:EOLhyphen"/>gain, and know that as he roſe, ſo ſhall we alſo, and together with <hi>Abraham</hi> and the Patriarchs and Prophets, and all the Saints ſhall be caught up at his appearance to meet him,
+<note place="margin">1 Theſ 4.18.</note> as the Apoſtle exhorts us, comfort we one another for our deceaſed brethren with theſe ſayings. And indeed what comfort could we have for one another in reſpect of them, if we believed that all their portion they are to have, they have had it already, and when they and we die, our ſpi<g ref="char:EOLhyphen"/>rits go to God, and our bodies to the duſt, and ther's an end of the matter, we ſhall never enjoy them again, there ſhall be no reſurre<g ref="char:EOLhyphen"/>ction; away with ſuch unchriſtian and unſavours conceptions, and let ns where we have believed hold faſt the faith, and not upon any pretence or by any Philoſophy or vain deceit of man, depart there<g ref="char:EOLhyphen"/>from, let us live in it, that we may die in it, or according to it.</p>
+               <p>And thus I have given you a view of the text, I ſuppoſe you expect I ſhould now return to our preſent occaſion, and ſay ſomething about our deceaſed brother: Truly the text is ſuch a comment on him, as that we might go over it again and apply it to him, or you might
+<pb n="30" facs="tcp:48665:18"/>underſtand that ſpoken of theſe Worthies here, as if ſaid of him, he believed the Goſpel, and had inſight in it, and oftentimes rejoiced much in it, was perſwaded of it, embraced it, loved it, counted him<g ref="char:EOLhyphen"/>ſelf a ſtranger and pilgrim in the earth, walkt with that contempt and careleſſeneſſe of it (how it thought of him and eſteemed him) as if he judged it not his habitation, but had his eye (as indeed he had) upon a better countrey, an enduring city that hath foundati<g ref="char:EOLhyphen"/>ons, he lived in this world as if he had his heart in another world, not regarding, nor ſcarce ſuffering the honours of this world or of this place to be thruſt upon him; his name was nothing to him for the Goſpels ſake, that he would approve whoever diſproved him, he would ſtop his ears againſt, and not endure to hear of their ſay<g ref="char:EOLhyphen"/>ings, who deny Chriſts mediation, and impugn the doctrine of the reſurrection, and profeſſing his joy and comfort to be therein, and in the hope he had therethrough of an enduring happy condition: for juſtice, uprightneſſe and honeſty, it was his aim and endeavour, and therein hath not left many to exceed (I doubt I may ſay to e<g ref="char:EOLhyphen"/>quallize) him, we may ſay of him, <hi>the righteous man is taken away, and the mercifull man from amongſt us:</hi> In both which reſpects I fear many will miſſe him, as the loins of the poor bleſſed him alive, ſo I doubt they will finde cauſe of mourning for his death: as he affect<g ref="char:EOLhyphen"/>ed not honour with men, ſo did he not long enjoy it, God not jud<g ref="char:EOLhyphen"/>ging us worthy the improvement of his abilities for the good of the Town, perhaps becauſe no better reſpected (when more able) by them: he was more like the ſelf-denying Olive, then the aſpiring bramble: he looked upon earths honour as a burthen, having his chief deſire upon that which is from heaven, therefore God hath taken him from his burthen to give him his deſire: in a word he was upright in his life, faithful to the truth to his death, patient under affliction (though long in great pain) and very deſirous of his diſſo<g ref="char:EOLhyphen"/>lution, that he might be with Chriſt. Let it be ourcare to imi<g ref="char:EOLhyphen"/>tate him in theſe good ſteps, that with him and all thoſe who through faith and patience have looked af<g ref="char:EOLhyphen"/>ter the promiſes of God, we may in due time be raiſed up, and brought to inherit them. I ſhall only adde an Epi<g ref="char:EOLhyphen"/>taph upon him, and I ſhall leave both you and him.</p>
+               <p>
+                  <g ref="char:dtristar">*⁎*</g>
+               </p>
+               <trailer>FINIS.</trailer>
+            </div>
+         </div>
+      </body>
+      <back>
+         <div type="epitaph">
+            <pb facs="tcp:48665:18"/>
+            <head>AN EPITAPH.</head>
+            <lg>
+               <l>
+                  <hi>Q<g ref="char:V">Ʋ</g>i cum vixit erat Major, major moriendo eſt</hi>
+               </l>
+               <l>
+                  <hi>(Morte repurgatus) quam fuit ipſe prius.</hi>
+               </l>
+               <l>
+                  <hi>Majestatis erat brevita cadaveris umbra,</hi>
+               </l>
+               <l>
+                  <hi>Vix ea majeſtas, illius umbra brevis:</hi>
+               </l>
+               <l>
+                  <hi>Spe laetus, multum<expan>
+                        <am>
+                           <g ref="char:abque"/>
+                        </am>
+                        <ex>que</ex>
+                     </expan> gemens mala publica, corpus</hi>
+               </l>
+               <l>
+                  <hi>Mandat humo, plenam numine caelo animam.</hi>
+               </l>
+            </lg>
+            <lg>
+               <head>In Engliſh thus.</head>
+               <l>This man alive was May'r, now dead is more</l>
+               <l>Advanc't (death bettring him) then heretofore.</l>
+               <l>Short ſhade o'th corps of Royalty he was,</l>
+               <l>That Royalty ſcarce ſhadowed what he was.</l>
+               <l>Who joy'd in hope, did publike woes condole,</l>
+               <l>Left earth his corps, to heaven his gracefull ſoul.</l>
+            </lg>
+            <trailer>FINIS.</trailer>
+         </div>
+      </back>
+   </text>
+</TEI>
